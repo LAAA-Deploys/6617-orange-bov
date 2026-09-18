@@ -1,0 +1,218 @@
+{
+  "entries": [
+    {
+      "property": "6617-orange",
+      "category": "subject",
+      "lat": 34.0654939,
+      "lng": -118.3719691,
+      "place_id": "ChIJc1GoyUe5woARdnl5TyZDm1I",
+      "precision": "ROOFTOP",
+      "needs_review": false,
+      "source_note": "6617 Orange Street, Los Angeles 90048 (APN 5510-022-039). laaa-geo resolveAddress ROOFTOP, verified place id, matches the pin supplied with the assignment, 09/17/2026."
+    },
+    {
+      "property": "6617-orange",
+      "category": "sold",
+      "order": 1,
+      "lat": 34.0843929,
+      "lng": -118.3706932,
+      "place_id": "ChIJm5YqN7a-woARDxLVVrgV2jc",
+      "precision": "ROOFTOP",
+      "needs_review": false,
+      "source_note": "725 N Sweetzer Ave, Los Angeles. LA County deed 26-0440453 recorded 06/16/2026 (APN 5528-003-030), full DTT. laaa-geo ROOFTOP, verified place id, 09/17/2026."
+    },
+    {
+      "property": "6617-orange",
+      "category": "sold",
+      "order": 2,
+      "lat": 34.0742242,
+      "lng": -118.388495,
+      "place_id": "ChIJvzYEa6u-woARgMdhBBTEvJI",
+      "precision": "ROOFTOP",
+      "needs_review": false,
+      "source_note": "142 S Wetherly Dr, Los Angeles. LA County deed 25-0573048 recorded 08/22/2025 (APN 4335-009-026), full DTT; MLS 25523371. laaa-geo ROOFTOP, verified place id, 09/17/2026."
+    },
+    {
+      "property": "6617-orange",
+      "category": "sold",
+      "order": 3,
+      "lat": 34.0642538,
+      "lng": -118.3654364,
+      "place_id": "ChIJQeVePjm5woAR6w5VGWGeHGI",
+      "precision": "ROOFTOP",
+      "needs_review": false,
+      "source_note": "6300 Orange St, Los Angeles. LA County deed 25-0360504 recorded 05/30/2025 (APN 5510-028-030), full DTT; MLS 25516481. laaa-geo ROOFTOP, verified place id, 09/17/2026."
+    },
+    {
+      "property": "6617-orange",
+      "category": "sold",
+      "order": 4,
+      "lat": 34.0521443,
+      "lng": -118.3815707,
+      "place_id": "ChIJeQ6U2We5woARA_-TKkcJhp0",
+      "precision": "ROOFTOP",
+      "needs_review": false,
+      "source_note": "1476 S Shenandoah St, Los Angeles. LightBox grant deed 26-0609345 recorded 08/14/2026 (APN 4303-011-038); assessor DTT not yet posted. laaa-geo ROOFTOP, verified place id, 09/17/2026."
+    },
+    {
+      "property": "6617-orange",
+      "category": "sold",
+      "order": 5,
+      "lat": 34.0506791,
+      "lng": -118.3817846,
+      "place_id": "ChIJ8W-QJWa5woARUU9adL3Prl0",
+      "precision": "ROOFTOP",
+      "needs_review": false,
+      "source_note": "1534 S Shenandoah St, Los Angeles. LightBox grant deed 26-0603895 recorded 08/13/2026 (APN 4303-012-041); assessor DTT not yet posted. laaa-geo ROOFTOP, verified place id, 09/17/2026."
+    },
+    {
+      "property": "6617-orange",
+      "category": "rent",
+      "order": 1,
+      "lat": 34.0591415,
+      "lng": -118.3776529,
+      "place_id": "ChIJHRbimUO5woARnnpYSnLGLUc",
+      "precision": "ROOFTOP",
+      "needs_review": false,
+      "source_note": "8560 W Olympic Blvd (Bloom), Los Angeles, 1 Bed / 1 Bath asking $2,325 as of 2026-09-13. laaa-geo ROOFTOP, verified place id, 09/17/2026."
+    },
+    {
+      "property": "6617-orange",
+      "category": "rent",
+      "order": 2,
+      "lat": 34.0591415,
+      "lng": -118.3776529,
+      "place_id": "ChIJHRbimUO5woARnnpYSnLGLUc",
+      "precision": "ROOFTOP",
+      "needs_review": false,
+      "source_note": "8560 W Olympic Blvd (Bloom), Los Angeles, 2 Bed / 2 Bath asking $3,300 as of 2026-09-17. laaa-geo ROOFTOP, verified place id, 09/17/2026."
+    },
+    {
+      "property": "6617-orange",
+      "category": "rent",
+      "order": 3,
+      "lat": 34.071558,
+      "lng": -118.379012,
+      "place_id": "ChIJk3xMt025woARLZmIFS4kKck",
+      "precision": "ROOFTOP",
+      "needs_review": false,
+      "source_note": "417 S Holt Ave (Sherholt), Los Angeles, 1 Bed / 1 Bath asking $2,295 as of 2026-05-28. laaa-geo ROOFTOP, verified place id, 09/17/2026."
+    },
+    {
+      "property": "6617-orange",
+      "category": "rent",
+      "order": 4,
+      "lat": 34.0586768,
+      "lng": -118.3785642,
+      "place_id": "ChIJuenrdEO5woARddyzuXhhzhU",
+      "precision": "ROOFTOP",
+      "needs_review": false,
+      "source_note": "1025 S Holt Ave, Los Angeles, 1 Bed / 1 Bath asking $2,395 as of 2026-05-26. laaa-geo ROOFTOP, verified place id, 09/17/2026."
+    },
+    {
+      "property": "6617-orange",
+      "category": "rent",
+      "order": 5,
+      "lat": 34.0586768,
+      "lng": -118.3785642,
+      "place_id": "ChIJuenrdEO5woARddyzuXhhzhU",
+      "precision": "ROOFTOP",
+      "needs_review": false,
+      "source_note": "1025 S Holt Ave, Los Angeles, 1 Bed / 1 Bath asking $2,287 as of 2026-02-13. laaa-geo ROOFTOP, verified place id, 09/17/2026."
+    },
+    {
+      "property": "6617-orange",
+      "category": "rent",
+      "order": 6,
+      "lat": 34.0586768,
+      "lng": -118.3785642,
+      "place_id": "ChIJuenrdEO5woARddyzuXhhzhU",
+      "precision": "ROOFTOP",
+      "needs_review": false,
+      "source_note": "1025 S Holt Ave, Los Angeles, 2 Bed / 2 Bath asking $2,995 as of 2026-05-26. laaa-geo ROOFTOP, verified place id, 09/17/2026."
+    },
+    {
+      "property": "6617-orange",
+      "category": "rent",
+      "order": 7,
+      "lat": 34.0713879,
+      "lng": -118.3798798,
+      "place_id": "ChIJJ6hulk25woAR8YxLhEVjqVI",
+      "precision": "ROOFTOP",
+      "needs_review": false,
+      "source_note": "423 S Sherbourne Dr (Sherbourne Arms), Los Angeles, 1 Bed / 1 Bath asking $2,495 as of 2026-05-28. laaa-geo ROOFTOP, verified place id, 09/17/2026."
+    },
+    {
+      "property": "6617-orange",
+      "category": "rent",
+      "order": 8,
+      "lat": 34.0627023,
+      "lng": -118.3780493,
+      "place_id": "ChIJf-Seq0W5woARVBKQgqpteZQ",
+      "precision": "ROOFTOP",
+      "needs_review": false,
+      "source_note": "8570 Gregory Way, Los Angeles, 2 Bed / 2 Bath asking $2,799 as of 2026-02-13. laaa-geo ROOFTOP, verified place id, 09/17/2026."
+    },
+    {
+      "property": "6617-orange",
+      "category": "rent",
+      "order": 9,
+      "lat": 34.06148,
+      "lng": -118.379007,
+      "place_id": "ChIJx5Sy8US5woARiU6DKh2F3ds",
+      "precision": "ROOFTOP",
+      "needs_review": false,
+      "source_note": "848 S Sherbourne Dr #6, Los Angeles, 2 Bed / 2 Bath asking $2,800 as of 2026-06-20. laaa-geo ROOFTOP, verified place id, 09/17/2026."
+    },
+    {
+      "property": "6617-orange",
+      "category": "rent",
+      "order": 10,
+      "lat": 34.062075,
+      "lng": -118.3806806,
+      "place_id": "ChIJiXeUKEW5woARQIuYzc39NAQ",
+      "precision": "ROOFTOP",
+      "needs_review": false,
+      "source_note": "825 S Bedford St, Los Angeles, 2 Bed / 2 Bath asking $2,895 as of 2026-02-13. laaa-geo ROOFTOP, verified place id, 09/17/2026."
+    },
+    {
+      "property": "6617-orange",
+      "category": "rent",
+      "order": 11,
+      "lat": 34.0706822,
+      "lng": -118.3776823,
+      "place_id": "ChIJlaM9L0y5woARsOhvvmcs6I4",
+      "precision": "ROOFTOP",
+      "needs_review": false,
+      "source_note": "8534 Colgate Ave, Los Angeles, 2 Bed / 2 Bath asking $3,595 as of 2025-12-29. laaa-geo ROOFTOP, verified place id, 09/17/2026."
+    }
+  ],
+  "renders": {
+    "images/maps-portfolio-subjects.png": "c0711aec62c76b6778d02f7a0565a2a2296ef909fe72cc6ff1a963f4eb3948cd",
+    "images/maps-portfolio-subjects-tall.png": "a92248aeecd863edccff8dfa3beae0a2af58fb43af269ef8f2e54c91aa95ef89",
+    "images/maps-6617-orange-subject.png": "58857e816d38acb0c4e5580e8b34a34c28c0174d34e6609296f6c72a79cb9152",
+    "images/maps-6617-orange-subject-tall.png": "bfdc33f5527b87d649659a51c089de749e01bfaf8722c8face62c03794f08ff1",
+    "images/maps-6617-orange-sale-comps.png": "0bc0ea3dca9a9d708c8c7f45f94217e8b25a7775e2f1ff8becdf054d61fc8591",
+    "images/maps-6617-orange-sale-comps-tall.png": "ef31a158a4b11b9572f22d22cadabc74d9eae74945903aa6154f59a313734233",
+    "images/maps-6617-orange-rent-comps.png": "d26f62908809e5266e5f557c1cd2ce507ead8ebfe6566bb312d708e9e2d30a9c",
+    "images/maps-6617-orange-rent-comps-tall.png": "668cf8a7dcdaadd62c658e7dc7fe2a3806cb56fe121b296f7b99e46759445aea",
+    "images/maps-6617-orange-closings.png": "183d592a2bc856bd17c4f6c431638fae65251081a3995c3ca17b37b02aadea1b"
+  },
+  "closings": {
+    "6617-orange": {
+      "source": "https://www.laaa.com/track-record",
+      "pulled": "2026-09-18T05:19:26+00:00",
+      "basis": {
+        "type": "radius",
+        "label": "within 2 miles",
+        "radius_mi": 2
+      },
+      "apartment_sales": 11,
+      "other_closings": 9,
+      "apartment_markers": 11,
+      "other_markers": 8,
+      "activity_markers": 0,
+      "render": "images/maps-6617-orange-closings.png"
+    }
+  }
+}

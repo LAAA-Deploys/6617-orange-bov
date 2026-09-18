@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "scope": "deal",
+  "deal_id": "6617-orange",
+  "portfolio_id": null,
+  "package_version": "v5",
+  "approved_at": "2026-09-18T15:21:07.661450+00:00",
+  "approver": "Glen Scher",
+  "price": {
+    "value": 5995000
+  },
+  "approved_exception_ids": [
+    "exc-comp-deeds",
+    "exc-expense-normalization",
+    "exc-insurance",
+    "exc-manager",
+    "exc-owner-level",
+    "exc-parking",
+    "exc-pricing",
+    "exc-repairs",
+    "exc-unit-sf"
+  ],
+  "domains": {
+    "copy": {
+      "content_sha256": "2f0e16bfc7e0b7241bae81aabab9566110e4a296ee3817a42979017912b3146f"
+    },
+    "financial_inputs": {
+      "content_sha256": "a95f9cbf8f13934440a3be8e9cd5ec7832ed17bf0c03658097447057e60f63a4"
+    },
+    "identity": {
+      "content_sha256": "2298e413bf862a9c5fe9f3d1ee5d82297df8e72a666692cb41044bde85be9a20"
+    },
+    "media_selection": {
+      "content_sha256": "a2dcc25ce74c9d44a61311c7c2fee6b538480420ac6fea9865960b6a9f846cbf"
+    },
+    "pricing_decision": {
+      "content_sha256": "0af834784a293b848aaac7adf14fb2674cafc8f9bdef6eb3c74046bf29bdea83"
+    },
+    "regulatory_conclusions": {
+      "content_sha256": "c86b8d80748d230ae32eb11b2df5be910fa5bf99d05558a5bb52f9155d62f892"
+    },
+    "rent_comps": {
+      "content_sha256": "a819ace6019dc49fc9c296c8d4a9da9aaf1e9f2fa8ebff7e25107adf18dbd459"
+    },
+    "sale_comps": {
+      "content_sha256": "6202cba082cbb758d1f4919f2ba3b04d9c7d07b915ed61d7c508bb711a7c91d7"
+    }
+  },
+  "legacy_snapshot": false,
+  "legacy_label": null,
+  "members": null
+}
