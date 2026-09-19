@@ -3,11 +3,11 @@
   "scope": "deal",
   "deal_id": "6617-orange",
   "portfolio_id": null,
-  "package_version": "v5",
-  "approved_at": "2026-09-18T15:21:07.661450+00:00",
+  "package_version": "v6",
+  "approved_at": "2026-09-19T00:29:04.027992+00:00",
   "approver": "Glen Scher",
   "price": {
-    "value": 5995000
+    "value": 5750000
   },
   "approved_exception_ids": [
     "exc-comp-deeds",
@@ -22,19 +22,19 @@
   ],
   "domains": {
     "copy": {
-      "content_sha256": "2f0e16bfc7e0b7241bae81aabab9566110e4a296ee3817a42979017912b3146f"
+      "content_sha256": "d5e8b6dd96a730ff0956c21f2c117042dc970f469ec1e12132b93dd6b55f39cb"
     },
     "financial_inputs": {
-      "content_sha256": "a95f9cbf8f13934440a3be8e9cd5ec7832ed17bf0c03658097447057e60f63a4"
+      "content_sha256": "bfaab18c3f72964f6e6d6c61424f65d9ea1b1783c69b2b1e8026124ae76bf603"
     },
     "identity": {
-      "content_sha256": "2298e413bf862a9c5fe9f3d1ee5d82297df8e72a666692cb41044bde85be9a20"
+      "content_sha256": "07e86fbbc358a52dad76b36f029d85a8762214a23f61687c2cadb28339e69637"
     },
     "media_selection": {
       "content_sha256": "a2dcc25ce74c9d44a61311c7c2fee6b538480420ac6fea9865960b6a9f846cbf"
     },
     "pricing_decision": {
-      "content_sha256": "0af834784a293b848aaac7adf14fb2674cafc8f9bdef6eb3c74046bf29bdea83"
+      "content_sha256": "cde3cb7ad2fe1d191aba4f2b2e6f9b8e193e1489820f4b6f1310bd22ea9da1ad"
     },
     "regulatory_conclusions": {
       "content_sha256": "c86b8d80748d230ae32eb11b2df5be910fa5bf99d05558a5bb52f9155d62f892"
@@ -43,7 +43,7 @@
       "content_sha256": "a819ace6019dc49fc9c296c8d4a9da9aaf1e9f2fa8ebff7e25107adf18dbd459"
     },
     "sale_comps": {
-      "content_sha256": "6202cba082cbb758d1f4919f2ba3b04d9c7d07b915ed61d7c508bb711a7c91d7"
+      "content_sha256": "45ae283547dd6007e983b54ed053e01593de719b4762f66762bda18a4bbb228b"
     }
   },
   "legacy_snapshot": false,

@@ -218,171 +218,171 @@
       "renovated_year": null,
       "parking": "Attached 12-car carport per the 1962 certificate of occupancy, which required 21 spaces. The number of uncovered spaces on site beyond the carport has not been confirmed and should be verified on a walk.",
       "hero": "images/orange-exterior-facade-wide.jpg",
-      "price": 5995000,
-      "price_per_unit": 285476.1905,
-      "price_per_sf": 288.6653,
-      "value_range": "$5,850,000 to $5,995,000",
+      "price": 5750000,
+      "price_per_unit": 273809.5238,
+      "price_per_sf": 276.8683,
+      "value_range": "$5,500,000 to $5,750,000",
       "opinion_of_value": [
         {
           "label": "Suggested list price",
-          "price": 5995000,
-          "price_per_unit": 285476.1904761905,
-          "price_per_sf": 288.66525423728814,
+          "price": 5750000,
+          "price_per_unit": 273809.5238095238,
+          "price_per_sf": 276.8682588597843,
           "price_per_land_sf": null,
           "price_per_buildable_unit": null,
-          "grm_current": 10.18346821714939,
-          "grm_market": 9.4457049221655,
-          "cap_current": 5.202530942452043,
-          "cap_market": 5.916747623019183
+          "grm_current": 11.076880020090186,
+          "grm_market": 8.728785256702189,
+          "cap_current": 5.158855826086957,
+          "cap_market": 7.420307652173913
         },
         {
           "label": "Midpoint",
-          "price": 5922500.0,
-          "price_per_unit": 282023.8095238095,
-          "price_per_sf": 285.1743066255778,
+          "price": 5625000.0,
+          "price_per_unit": 267857.14285714284,
+          "price_per_sf": 270.8493836671803,
           "price_per_land_sf": null,
           "price_per_buildable_unit": null,
-          "grm_current": 10.060315348801877,
-          "grm_market": 9.331474128694776,
-          "cap_current": 5.2807529759392144,
-          "cap_market": 6.003712705783031
+          "grm_current": 10.836078280523008,
+          "grm_market": 8.539029055469532,
+          "cap_current": 5.300163733333334,
+          "cap_market": 7.611870044444445
         },
         {
           "label": "Range bottom",
-          "price": 5850000,
-          "price_per_unit": 278571.4285714286,
-          "price_per_sf": 281.6833590138675,
+          "price": 5500000,
+          "price_per_unit": 261904.7619047619,
+          "price_per_sf": 264.8305084745763,
           "price_per_land_sf": null,
           "price_per_buildable_unit": null,
-          "grm_current": 9.937162480454367,
-          "grm_market": 9.21724333522405,
-          "cap_current": 5.360913846153846,
-          "cap_market": 6.092833333333333
+          "grm_current": 10.59527654095583,
+          "grm_market": 8.349272854236876,
+          "cap_current": 5.447894727272728,
+          "cap_market": 7.812139818181818
         }
       ],
       "scheduled_rent": [
-        49058.27,
-        52890.0
+        43258.27,
+        54895.0
       ],
       "monthly_sgi": [
-        49408.27,
-        53240.0
+        43608.27,
+        55245.0
       ],
       "additional_income": [
         350.0,
         350.0
       ],
-      "grm_current": 10.18346821714939,
-      "grm_market": 9.4457049221655,
-      "cap_current": 5.202530942452043,
-      "cap_market": 5.916747623019183,
+      "grm_current": 11.076880020090186,
+      "grm_market": 8.728785256702189,
+      "cap_current": 5.158855826086957,
+      "cap_market": 7.420307652173913,
       "cap_current_basis": "LAAA calculation: current NOI / recommended value",
       "cap_market_basis": "LAAA calculation: market NOI / recommended value",
-      "noi_current": 311891.73,
-      "noi_market": 354709.02,
-      "tax_rate": 1.1874,
+      "noi_current": 296634.21,
+      "noi_market": 426667.69,
+      "tax_rate": 1.2,
       "tax_anchor": {
-        "ad_valorem": 71184.63,
-        "flat_assessments": 2934,
+        "ad_valorem": 69000.0,
+        "flat_assessments": 0,
         "expense_line": "Real Estate Taxes"
       },
-      "expense_total": 263346.53,
-      "expense_per_unit": 12540.310952380954,
-      "expense_per_sf": 12.680399171802774,
+      "expense_total": 211092.05,
+      "expense_per_unit": 10052.002380952381,
+      "expense_per_sf": 10.164293624807396,
       "unit_mix": [
         {
           "count": 15,
           "type": "1 Bed / 1 Bath",
           "sf": null,
           "rent_current": 2177.55,
-          "monthly_current": 32663.27,
-          "rent_market": 2363.0,
-          "monthly_market": 35445.0,
+          "monthly_current": 32663.26,
+          "rent_market": 2495.0,
+          "monthly_market": 37425.0,
           "sf_basis": "omitted"
         },
         {
           "count": 6,
           "type": "2 Bed / 2 Bath",
           "sf": null,
-          "rent_current": 2732.5,
-          "monthly_current": 16395.0,
-          "rent_market": 2907.5,
-          "monthly_market": 17445.0,
+          "rent_current": 1765.83,
+          "monthly_current": 10595.01,
+          "rent_market": 2911.67,
+          "monthly_market": 17470.0,
           "sf_basis": "omitted"
         }
       ],
       "operating": {
         "sgi": [
-          592899.24,
-          638880.0
+          523299.24,
+          662940.0
         ],
         "vacancy": [
-          17660.98,
-          19040.4
+          15572.98,
+          19762.2
         ],
-        "vacancy_pct": 3.000000475624871,
+        "vacancy_pct": 3.0000005393958964,
         "vacancy_only": [
-          17660.98,
-          19040.4
+          15572.98,
+          19762.2
         ],
-        "vacancy_only_pct": 3.000000475624871,
+        "vacancy_only_pct": 3.0000005393958964,
         "credit_loss": [
           0,
           0
         ],
         "credit_loss_pct": 0.0,
         "goi": [
-          575238.26,
-          619839.6
+          507726.26,
+          643177.8
         ],
         "expenses": [
-          263346.53,
-          265130.58
+          211092.05,
+          216510.11
         ],
         "expense_ratio": [
-          45.78042670527513,
-          42.774062838192336
+          41.575956697611026,
+          33.662559559736046
         ],
         "noi": [
-          311891.73,
-          354709.02
+          296634.21,
+          426667.69
         ],
         "loan_payments": [
-          0.0,
-          0.0
+          -218063.47,
+          -218063.47
         ],
         "pretax_cf": [
-          311891.73,
-          354709.02
+          78570.74000000002,
+          208604.22
         ],
         "pretax_cf_pct": [
-          5.202530942452043,
-          5.916747623019183
+          2.732895304347827,
+          7.255798956521739
         ],
         "principal_reduction": [
-          0.0,
-          0.0
+          32134.61,
+          34286.72
         ],
         "total_return": [
-          311891.73,
-          354709.02
+          110705.35000000002,
+          242890.94
         ],
         "total_return_pct": [
-          5.202530942452043,
-          5.916747623019183
+          3.850620869565218,
+          8.44838052173913
         ]
       },
       "expense_lines": [
         [
           "Real Estate Taxes",
-          74119,
-          74119,
+          69000,
+          69000,
           "4"
         ],
         [
           "Insurance",
-          28089,
-          28089,
+          24968,
+          24968,
           "5"
         ],
         [
@@ -399,61 +399,49 @@
         ],
         [
           "Repairs & Maintenance",
-          17850,
-          17850,
+          10200,
+          10200,
           "8"
         ],
         [
           "Contract Services",
-          9210,
-          9210,
+          6300,
+          6300,
           "9"
         ],
         [
-          "Pest Control",
-          615,
-          615,
+          "On-Site Manager",
+          36000,
+          36000,
           "10"
         ],
         [
-          "Elevator & Fire Protection",
-          9085,
-          9085,
+          "General & Administrative",
+          4200,
+          4200,
           "11"
         ],
         [
-          "General & Administrative",
-          5829,
-          5829,
+          "Operating Reserves",
+          3150,
+          3150,
           "12"
         ],
         [
-          "On-Site Manager",
-          52800,
-          52800,
-          "13"
-        ],
-        [
-          "Operating Reserves",
-          5775,
-          5775,
-          "14"
-        ],
-        [
           "Management Fee",
-          23009.53,
-          24793.58,
-          "15"
+          20309.05,
+          25727.11,
+          "13"
         ]
       ],
       "expense_notes": {
         "4": [
           "Real Estate Taxes",
-          "Reassessed at the $5,995,000 list price: 1.1874% plus $2,934 of direct assessments, Tax Rate Area 00067."
+          "Reassessed at 1.20% of the $5,750,000 list price."
         ],
         "5": [
           "Insurance",
-          "$200 per unit plus $1.00 per square foot of building area, increased 12.5% for a three-story wood-frame building."
+          "$200 per unit plus $1.00 per square foot of building area."
         ],
         "6": [
           "Utilities",
@@ -465,43 +453,35 @@
         ],
         "8": [
           "Repairs & Maintenance",
-          "$850 per unit, the top of the $600 to $850 range, for a 1962 building."
+          "$10,200 per year, about $486 per unit."
         ],
         "9": [
           "Contract Services",
-          "Cleaning and gardening per the ownership's 2025 operating history."
+          "$300 per unit."
         ],
         "10": [
-          "Pest Control",
-          "Per the ownership's 2025 operating history."
+          "On-Site Manager",
+          "$3,000 per month. California requires a resident manager at 16 or more units; the manager's two-bedroom carries no rent in the current column."
         ],
         "11": [
-          "Elevator & Fire Protection",
-          "Elevator service and fire protection per the ownership's 2025 operating history."
+          "General & Administrative",
+          "$200 per unit."
         ],
         "12": [
-          "General & Administrative",
-          "City rent registration, licenses and permits, office, telephone, postage, association dues and advertising per the ownership's 2025 operating history."
+          "Operating Reserves",
+          "$150 per unit."
         ],
         "13": [
-          "On-Site Manager",
-          "California requires a resident manager at 16 or more units. The manager's two-bedroom unit is credited at its $2,900 market rent, plus a salary of $1,500 per month."
-        ],
-        "14": [
-          "Operating Reserves",
-          "$275 per unit: $300 for a 1960s building, less $100 for the completed seismic retrofit, electrical and balcony work, plus $75 for the elevator."
-        ],
-        "15": [
           "Management Fee",
           "Professional management at 4% of effective gross income."
         ],
         "2": [
           "Scheduled Gross Income",
-          "Ownership's rent roll as of September 2026, $46,008 per month on 20 paying units, with the manager's unit (201) and unit 301, which the resident vacates in October 2026, carried at the $2,900 two-bedroom market rent. The market column carries $2,350 for a one-bedroom and $2,900 for a two-bedroom, with units 102, 103 and 308 held at their higher current rents."
+          "Ownership's rent roll as of September 2026, $43,258 per month on the 19 units carried at rent. The manager's unit (201) carries no rent, and unit 301, whose resident vacates in October 2026, is carried at no rent. The pro forma column carries every unit at the model's potential rent: $2,495 per one-bedroom and an average of $2,912 per two-bedroom."
         ],
         "3": [
           "Vacancy Reserve",
-          "3.0% of scheduled rent. All 21 units are occupied on the September 2026 roll."
+          "3.0% of scheduled rent in both columns."
         ],
         "1": [
           "Additional Income",
@@ -513,13 +493,19 @@
         "vacancy": "3",
         "additional_income": "1"
       },
-      "financing_structure": "all_cash",
-      "financing": null,
+      "financing_structure": "new_financing",
+      "financing": {
+        "loan_amount": 2875000,
+        "rate": 6.5,
+        "amortization": 30,
+        "dcr": 1.36,
+        "basis": "illustrative_assumption"
+      },
       "highlights": [
         "21 units in Beverly Grove: 15 one-bedroom and 6 two-bedroom, two-bath apartments in a three-story elevator building built in 1962",
         "Mandated work finished and documented: soft-story retrofit certified in March 2018 and the balcony repair in 20 units finaled in April 2024",
         "Roof replaced in 2017 and building-wide electrical subpanels replaced under permits finaled in 2023",
-        "Occupied one-bedrooms average $2,178 against a $2,350 market rent and the rent-paying two-bedrooms $2,669 against $2,900, reached as units turn over",
+        "Occupied one-bedrooms average $2,178 against the pro forma's $2,495, and the four continuing two-bedroom tenancies $2,649 against a $2,912 two-bedroom average, reached as units turn over",
         "Walk Score 95, within a half mile of a major transit stop, and under a mile from Cedars-Sinai, LACMA, the Beverly Center and The Grove",
         "20,768 SF on a 13,479 SF R3 lot with an attached 12-car carport, a common laundry room and a resident manager"
       ],
@@ -546,16 +532,16 @@
         "The comps with a public listing history tell one story. 725 N Sweetzer listed at $7,995,000, fell out of escrow, expired and closed at 79% of that price; 142 S Wetherly closed at 83% of its $15,250,000 ask. The one priced near its value, 6300 Orange, sold in 66 days at 98% of its ask."
       ],
       "positioning_narrative": [
-        "The right buyer values what is uncommon at this size: an elevator building in Beverly Grove with its seismic, balcony, roof and electrical work finished and documented, a Walk Score of 95, and occupied rents about 8% under market that move to market as tenants turn over. That buyer should be qualified early on two questions, whether they accept the underwritten insurance and repair figures or underwrite to the 2025 return, and whether they are financing at today's rates or buying with modest debt, because both decide where inside the range an offer lands."
+        "The right buyer values what is uncommon at this size: an elevator building in Beverly Grove with its seismic, balcony, roof and electrical work finished and documented, a Walk Score of 95, and occupied one-bedroom rents about 13% under the pro forma's $2,495 that move to market as tenants turn over. That buyer should be qualified early on two questions, whether they accept the underwritten insurance and repair figures or underwrite to the 2025 return, and whether they are financing at today's rates or buying with modest debt, because both decide where inside the range an offer lands."
       ],
       "rent_narrative": [
         "Rent evidence is read plan by plan in City of Los Angeles RSO buildings within 0.61 mile. Five one-bedroom asks in four buildings built from 1954 to 1975 run $2,287 to $2,495: $2,295 at the 1965 Sherholt on Holt Avenue, $2,287 and $2,395 at the 1969 elevator building at 1025 S Holt, $2,325 at Bloom on Olympic with a month free, and $2,495 for a fully remodeled unit at 423 S Sherbourne. With the building's own one-bedroom asks of $2,350 (unit 203, September 2026) and $2,385 (unit 207, October 2025), the median is $2,350. Two-bedroom asks run $2,799 to $3,300 on plans of 859 to 1,200 SF, with a median of $2,895.",
-        "Market rent is concluded at $2,350 for a turned one-bedroom and $2,900 for a two-bedroom. The comparable two-bedrooms are larger, 1,000 to 1,200 SF against portal records of 825 to 900 SF for the subject's, which argues lower; the subject's elevator, balconies and updated kitchens argue higher. Units 102, 103 and 308 already rent above those figures and are held at their current rents, which puts the building at $634,680 of scheduled rent at market, 7.8% above the current $588,699. The renovated ceiling, 8534 Colgate with in-unit laundry at $3,595, is a different product and is not carried."
+        "The asking evidence centers on $2,350 for a turned one-bedroom and about $2,900 for a two-bedroom. The comparable two-bedrooms are larger, 1,000 to 1,200 SF against portal records of 825 to 900 SF for the subject's, which argues lower; the subject's elevator, balconies and updated kitchens argue higher. The pro forma carries $2,495 per one-bedroom, the top of the one-bedroom range and unit 103's current rent, and an average of $2,912 per two-bedroom, which puts the building at $658,740 of scheduled rent, 26.9% above the current $519,099 that carries units 201 and 301 at no rent. The renovated ceiling, 8534 Colgate with in-unit laundry at $3,595, is a different product and is not carried."
       ],
       "valuation_narrative": [
-        "The recommended list price is $5.995M, the top of an opinion of value of $5.85M to $5.995M, with $5.925M the most likely sale price. At $5.995M the building prices at $285,476 per unit and $288.67 per SF. Current scheduled rent of $588,699, less a 3% vacancy reserve plus $4,200 of laundry, gives $575,238 of effective gross income; operating expenses of $263,347, with taxes reassessed at the list price, the owner's own $27,390 of utilities and the required on-site manager, leave net operating income of $311,892, a 5.20% cap rate and a 10.18 GRM. At market rents of $634,680 the net operating income is $354,709 and the cap rate 5.92%.",
-        "This price is set by yield. At the list the cap rate is 5.20%, rising to 5.36% at the bottom of the range, above the 4.74% that 6300 Orange shows on its own statement with its taxes restated at its sale price. The 10.18 GRM sits just above that building's 9.95, and the subject is the better building: newer, served by an elevator, with larger units and the mandated work done. On price per unit, $285,476 sits 6.5% below the $305,382 average of the five sales and about 5% under 725 N Sweetzer, the same-size 1965 elevator building at $300,000, and above 6300 Orange at $272,222 and 1534 S Shenandoah at $269,750. On price per SF, $288.67 sits at the bottom of the five sales, level with 725 N Sweetzer at $288 and below the other four, which run $304 to $356.",
-        "The discount to the comps has one cause: every one of them financed into Treasury yields 0.59 to 1.24 points lower than today's. A buyer borrowing at today's rates pays less for the same income, so this opinion sits at a 5.20% cap and does not ask a buyer to pay the comps' prices at today's cost of money. Pricing the building where a financed buyer's numbers work from the first day avoids the gap between ask and sale that cost 725 N Sweetzer and 142 S Wetherly months on the market."
+        "The recommended list price is $5.75M, the top of an opinion of value of $5.5M to $5.75M. At $5.75M the building prices at $273,810 per unit and $276.87 per SF. Current scheduled rent of $519,099, which carries the manager's unit and unit 301 at no rent, less a 3% vacancy reserve plus $4,200 of laundry, gives $507,726 of effective gross income; operating expenses of $211,092, with taxes reassessed at 1.20% of the list price, the owner's own $27,390 of utilities and the required on-site manager, leave net operating income of $296,634, a 5.16% cap rate and an 11.08 GRM. At the pro forma's $658,740 of scheduled rent the net operating income is $426,668 and the cap rate 7.42%. With 50% down and a $2.875M loan at 6.50% amortized over 30 years, the illustration in the model, debt coverage is 1.36 and the first-year cash-on-cash return 2.73%.",
+        "This price is set by yield. At the list the cap rate is 5.16%, above the 4.74% that 6300 Orange shows on its own statement with its taxes restated at its sale price, and the subject is the better building: newer, served by an elevator, with larger units and the mandated work done. The 11.08 GRM runs above that building's 9.95 because current rent carries two of the 21 units at no rent; on the pro forma rents it is 8.73. On price per unit, $273,810 sits 10.3% below the $305,382 average of the five sales and 8.7% under 725 N Sweetzer, the same-size 1965 elevator building at $300,000, and just above 6300 Orange at $272,222 and 1534 S Shenandoah at $269,750. On price per SF, $276.87 sits below all five sales, which run $288 to $356.",
+        "The discount to the comps comes from the cost of money: every one of them financed into Treasury yields 0.59 to 1.24 points lower than today's. A buyer borrowing at today's rates pays less for the same income, so this opinion sits at a 5.16% cap and does not ask a buyer to pay the comps' prices at today's cost of money. Pricing the building where a financed buyer's numbers work from the first day avoids the gap between ask and sale that cost 725 N Sweetzer and 142 S Wetherly months on the market."
       ],
       "strategy": [
         {
@@ -568,7 +554,7 @@
         },
         {
           "title": "Show the Rent Gap on the Occupied Units",
-          "copy": "All 21 units are under the Rent Stabilization Ordinance. The occupied one-bedrooms average $2,178 against a $2,350 market rent and the rent-paying two-bedrooms $2,669 against $2,900, and each of those units re-leases at market when its tenant moves out on their own. The campaign shows that gap unit by unit and does not ask a buyer to pay for it today."
+          "copy": "All 21 units are under the Rent Stabilization Ordinance. The occupied one-bedrooms average $2,178 against the $2,495 the pro forma carries, and the four continuing two-bedroom tenancies average $2,649 against a pro forma two-bedroom average of $2,912, and each of those units re-leases at market when its tenant moves out on their own. The campaign shows that gap unit by unit and does not ask a buyer to pay for it today."
         }
       ],
       "buyer_profiles": [
@@ -586,8 +572,8 @@
         }
       ],
       "disclosures": [
-        "Scheduled income is ownership's rent roll as of September 2026 ($46,008 per month on 20 rent-paying units), with unit 201, the resident manager's unit, and unit 301, whose tenant leaves in October 2026, carried at the $2,900 two-bedroom market rent; the manager's unit is credited back as an expense. Laundry is the owner's figure of about $350 per month. Taxes are reassessed at the list price at the parcel's own rates, 1.1874% plus $2,934 of direct assessments. Utilities ($27,390), trash ($9,575), cleaning and gardening ($9,210), pest control ($615), elevator service and fire protection ($9,085) and general and administrative costs ($5,829) are the owner's 2025 actuals from the Schedule E. Insurance ($28,089), repairs ($17,850), the on-site manager ($52,800, a $34,800 rent credit plus $18,000 of salary), reserves ($5,775) and management (4% of effective gross income) are LAAA allowances. The analysis assumes an all-cash purchase.",
-        "The owner's 2025 Schedule E books $55,066 of insurance, $50,062 of repairs, painting, appliances and supplies, $35,833 of payroll and workers compensation, $19,998 of legal and professional fees and $3,750 of environmental testing, as annual totals only. With insurance and repairs at the booked figures, net operating income at the list price would be $252,703. Unit sizes are not measured; the model allocates the 20,768 SF gross building area across the units, and price per SF uses that county total. Comparable cap rates and multiples come only from each building's own documents, with taxes restated at the sale price; four of the five comps published no income and carry price per unit and per SF only. The August 2026 sales at 1476 and 1534 S Shenandoah rest on the recorded grant deeds, as the county had not posted the transfer tax by September 17, 2026. Treasury yields are U.S. Treasury constant maturity, via FRED (DGS3, DGS5)."
+        "Scheduled income is ownership's rent roll as of September 2026 ($46,008 per month on 20 rent-paying units), with unit 201, the resident manager's unit, at no rent and unit 301, whose tenant leaves in October 2026, also carried at no rent, for $43,258 per month; a 3% vacancy reserve is deducted in both columns. The pro forma carries $2,495 per one-bedroom and an average of $2,912 per two-bedroom. Laundry is the owner's figure of about $350 per month. Taxes are reassessed at 1.20% of the list price; at the parcel's own rates, 1.1874% plus $2,934 of direct assessments, they would be $71,210. Utilities ($27,390) and trash ($9,575) are the owner's 2025 actuals from the Schedule E. Insurance ($24,968), repairs ($10,200), contract services ($6,300), the on-site manager ($36,000), general and administrative costs ($4,200), reserves ($3,150) and management (4% of effective gross income) are LAAA allowances. The financing shown, 50% down with a $2.875M loan at 6.50% amortized over 30 years, is an illustration, not a lender quote.",
+        "The owner's 2025 Schedule E books $55,066 of insurance, $50,062 of repairs, painting, appliances and supplies, $18,910 of cleaning, gardening, pest control, elevator service and fire protection, $35,833 of payroll and workers compensation, $19,998 of legal and professional fees and $3,750 of environmental testing, as annual totals only. With insurance and repairs at the booked figures, net operating income at the list price would be $226,674. Unit sizes are not measured; the model carries unit square footage as N/A, and price per SF uses the 20,768 SF county gross building area. Comparable cap rates and multiples come only from each building's own documents, with taxes restated at the sale price; four of the five comps published no income and carry price per unit and per SF only. The August 2026 sales at 1476 and 1534 S Shenandoah rest on the recorded grant deeds, as the county had not posted the transfer tax by September 17, 2026. Treasury yields are U.S. Treasury constant maturity, via FRED (DGS3, DGS5)."
       ],
       "gallery": [
         {
@@ -663,37 +649,37 @@
         {
           "src": "images/model-page-01.svg",
           "label": "Rent Roll Summary",
-          "width": 752.24,
-          "height": 298.16,
-          "sha256": "215a16ebb672f6c7b6201213774e46a3e55cf1280005658040a61e0376606208"
+          "width": 746.78,
+          "height": 324.32,
+          "sha256": "5627113cbf756d217b81aeed53e25b18a9f457f75dbdc230fe6fb0bac27d6ef9"
         },
         {
           "src": "images/model-page-02.svg",
           "label": "Operating Statement",
-          "width": 752.24,
-          "height": 300.25,
-          "sha256": "3ff06216554afdbf7a6dd2f3ba68e977fc4785312fd5b6737ad96efde1f05f29"
+          "width": 746.78,
+          "height": 281.05,
+          "sha256": "e25d851e7231b93e57f7a0664b2397dfcd4f57328ac1516d7f61d0bdf69899ef"
         },
         {
           "src": "images/model-page-03.svg",
           "label": "Notes to the Operating Statement",
-          "width": 752.24,
-          "height": 333.61,
-          "sha256": "58e76240f1689a747c0fd09c0d4f7fb2ea1401f24d5b9da83fab8076bf54ee73"
+          "width": 746.78,
+          "height": 398.8,
+          "sha256": "45a3e6ea30acddf83f68806a4ec5124d998a1678d69fc31cb35ba1a4712c2b63"
         },
         {
           "src": "images/model-page-04.svg",
           "label": "Pricing Detail",
-          "width": 752.24,
-          "height": 439.93,
-          "sha256": "04726791b3608655aa5faf44d34f9182224798ce9391563d420d5d332ef6e12a"
+          "width": 746.78,
+          "height": 463.33,
+          "sha256": "37c27e29431f687f48b16f7a4ede587c9cfe7ab24d5e6030b949f097472022a1"
         },
         {
           "src": "images/model-page-05.svg",
           "label": "Proposal Price",
-          "width": 752.24,
-          "height": 274.45,
-          "sha256": "e0380c342532fa6140dbd03e811c10eccd81c5f01c409f11758d1f4000eb29bb"
+          "width": 746.78,
+          "height": 387.88,
+          "sha256": "1ae0a7e8384d370b25c2872561e93a4d3aa070df0725b8e065728dcf88cae271"
         }
       ],
       "comp_pages": [],
@@ -1065,7 +1051,7 @@
         },
         "local_listings_source": {
           "source": "https://www.laaa.com/listings",
-          "pulled": "2026-09-18T15:21:18+00:00"
+          "pulled": "2026-09-19T00:29:12+00:00"
         }
       }
     }
@@ -1129,7 +1115,7 @@
           "strategy_copy": [
             "A buyer of a 1962 wood-frame building in Los Angeles asks two questions before any other: the soft-story retrofit and the balcony inspection. Both are closed here. The retrofit carries a Certificate of Compliance from March 2018 and the balcony repair in 20 units was finaled in April 2024, alongside a 2017 roof and building-wide electrical subpanels finaled in 2023. The package leads with those permits, because they remove the capital reserve a buyer would otherwise subtract from the price.",
             "The 2025 return shows $55,066 of insurance and $50,062 of repairs, painting, appliances and supplies, both well above what this underwriting carries. A buyer will see both. The package states the underwritten figures and the booked figures side by side, with the reason for each, so a buyer underwrites once rather than finding the gap in diligence and re-trading. The insurance declarations page and a 2025 repair ledger are the two documents that make that case, and we recommend having both in hand before launch.",
-            "All 21 units are under the Rent Stabilization Ordinance. The occupied one-bedrooms average $2,178 against a $2,350 market rent and the rent-paying two-bedrooms $2,669 against $2,900, and each of those units re-leases at market when its tenant moves out on their own. The campaign shows that gap unit by unit and does not ask a buyer to pay for it today."
+            "All 21 units are under the Rent Stabilization Ordinance. The occupied one-bedrooms average $2,178 against the $2,495 the pro forma carries, and the four continuing two-bedroom tenancies average $2,649 against a pro forma two-bedroom average of $2,912, and each of those units re-leases at market when its tenant moves out on their own. The campaign shows that gap unit by unit and does not ask a buyer to pay for it today."
           ],
           "narrative": [
             "We are proactive marketers rather than reactive ones. The offering is built, priced and staged before it is released, the outreach runs on a schedule you can see, and you get a written report on what happened rather than a summary of what we hoped would happen."
@@ -1140,7 +1126,7 @@
             "21 units in Beverly Grove: 15 one-bedroom and 6 two-bedroom, two-bath apartments in a three-story elevator building built in 1962",
             "Mandated work finished and documented: soft-story retrofit certified in March 2018 and the balcony repair in 20 units finaled in April 2024",
             "Roof replaced in 2017 and building-wide electrical subpanels replaced under permits finaled in 2023",
-            "Occupied one-bedrooms average $2,178 against a $2,350 market rent and the rent-paying two-bedrooms $2,669 against $2,900, reached as units turn over",
+            "Occupied one-bedrooms average $2,178 against the pro forma's $2,495, and the four continuing two-bedroom tenancies $2,649 against a $2,912 two-bedroom average, reached as units turn over",
             "Walk Score 95, within a half mile of a major transit stop, and under a mile from Cedars-Sinai, LACMA, the Beverly Center and The Grove",
             "20,768 SF on a 13,479 SF R3 lot with an attached 12-car carport, a common laundry room and a resident manager"
           ],
@@ -1175,7 +1161,7 @@
             "The comps with a public listing history tell one story. 725 N Sweetzer listed at $7,995,000, fell out of escrow, expired and closed at 79% of that price; 142 S Wetherly closed at 83% of its $15,250,000 ask. The one priced near its value, 6300 Orange, sold in 66 days at 98% of its ask."
           ],
           "positioning_narrative": [
-            "The right buyer values what is uncommon at this size: an elevator building in Beverly Grove with its seismic, balcony, roof and electrical work finished and documented, a Walk Score of 95, and occupied rents about 8% under market that move to market as tenants turn over. That buyer should be qualified early on two questions, whether they accept the underwritten insurance and repair figures or underwrite to the 2025 return, and whether they are financing at today's rates or buying with modest debt, because both decide where inside the range an offer lands."
+            "The right buyer values what is uncommon at this size: an elevator building in Beverly Grove with its seismic, balcony, roof and electrical work finished and documented, a Walk Score of 95, and occupied one-bedroom rents about 13% under the pro forma's $2,495 that move to market as tenants turn over. That buyer should be qualified early on two questions, whether they accept the underwritten insurance and repair figures or underwrite to the 2025 return, and whether they are financing at today's rates or buying with modest debt, because both decide where inside the range an offer lands."
           ],
           "profile_titles": [
             "Westside RSO Owner",
@@ -1191,18 +1177,18 @@
         "rent_comps": {
           "narrative": [
             "Rent evidence is read plan by plan in City of Los Angeles RSO buildings within 0.61 mile. Five one-bedroom asks in four buildings built from 1954 to 1975 run $2,287 to $2,495: $2,295 at the 1965 Sherholt on Holt Avenue, $2,287 and $2,395 at the 1969 elevator building at 1025 S Holt, $2,325 at Bloom on Olympic with a month free, and $2,495 for a fully remodeled unit at 423 S Sherbourne. With the building's own one-bedroom asks of $2,350 (unit 203, September 2026) and $2,385 (unit 207, October 2025), the median is $2,350. Two-bedroom asks run $2,799 to $3,300 on plans of 859 to 1,200 SF, with a median of $2,895.",
-            "Market rent is concluded at $2,350 for a turned one-bedroom and $2,900 for a two-bedroom. The comparable two-bedrooms are larger, 1,000 to 1,200 SF against portal records of 825 to 900 SF for the subject's, which argues lower; the subject's elevator, balconies and updated kitchens argue higher. Units 102, 103 and 308 already rent above those figures and are held at their current rents, which puts the building at $634,680 of scheduled rent at market, 7.8% above the current $588,699. The renovated ceiling, 8534 Colgate with in-unit laundry at $3,595, is a different product and is not carried."
+            "The asking evidence centers on $2,350 for a turned one-bedroom and about $2,900 for a two-bedroom. The comparable two-bedrooms are larger, 1,000 to 1,200 SF against portal records of 825 to 900 SF for the subject's, which argues lower; the subject's elevator, balconies and updated kitchens argue higher. The pro forma carries $2,495 per one-bedroom, the top of the one-bedroom range and unit 103's current rent, and an average of $2,912 per two-bedroom, which puts the building at $658,740 of scheduled rent, 26.9% above the current $519,099 that carries units 201 and 301 at no rent. The renovated ceiling, 8534 Colgate with in-unit laundry at $3,595, is a different product and is not carried."
           ]
         },
         "financial_analysis": {
           "valuation_narrative": [
-            "The recommended list price is $5.995M, the top of an opinion of value of $5.85M to $5.995M, with $5.925M the most likely sale price. At $5.995M the building prices at $285,476 per unit and $288.67 per SF. Current scheduled rent of $588,699, less a 3% vacancy reserve plus $4,200 of laundry, gives $575,238 of effective gross income; operating expenses of $263,347, with taxes reassessed at the list price, the owner's own $27,390 of utilities and the required on-site manager, leave net operating income of $311,892, a 5.20% cap rate and a 10.18 GRM. At market rents of $634,680 the net operating income is $354,709 and the cap rate 5.92%.",
-            "This price is set by yield. At the list the cap rate is 5.20%, rising to 5.36% at the bottom of the range, above the 4.74% that 6300 Orange shows on its own statement with its taxes restated at its sale price. The 10.18 GRM sits just above that building's 9.95, and the subject is the better building: newer, served by an elevator, with larger units and the mandated work done. On price per unit, $285,476 sits 6.5% below the $305,382 average of the five sales and about 5% under 725 N Sweetzer, the same-size 1965 elevator building at $300,000, and above 6300 Orange at $272,222 and 1534 S Shenandoah at $269,750. On price per SF, $288.67 sits at the bottom of the five sales, level with 725 N Sweetzer at $288 and below the other four, which run $304 to $356.",
-            "The discount to the comps has one cause: every one of them financed into Treasury yields 0.59 to 1.24 points lower than today's. A buyer borrowing at today's rates pays less for the same income, so this opinion sits at a 5.20% cap and does not ask a buyer to pay the comps' prices at today's cost of money. Pricing the building where a financed buyer's numbers work from the first day avoids the gap between ask and sale that cost 725 N Sweetzer and 142 S Wetherly months on the market."
+            "The recommended list price is $5.75M, the top of an opinion of value of $5.5M to $5.75M. At $5.75M the building prices at $273,810 per unit and $276.87 per SF. Current scheduled rent of $519,099, which carries the manager's unit and unit 301 at no rent, less a 3% vacancy reserve plus $4,200 of laundry, gives $507,726 of effective gross income; operating expenses of $211,092, with taxes reassessed at 1.20% of the list price, the owner's own $27,390 of utilities and the required on-site manager, leave net operating income of $296,634, a 5.16% cap rate and an 11.08 GRM. At the pro forma's $658,740 of scheduled rent the net operating income is $426,668 and the cap rate 7.42%. With 50% down and a $2.875M loan at 6.50% amortized over 30 years, the illustration in the model, debt coverage is 1.36 and the first-year cash-on-cash return 2.73%.",
+            "This price is set by yield. At the list the cap rate is 5.16%, above the 4.74% that 6300 Orange shows on its own statement with its taxes restated at its sale price, and the subject is the better building: newer, served by an elevator, with larger units and the mandated work done. The 11.08 GRM runs above that building's 9.95 because current rent carries two of the 21 units at no rent; on the pro forma rents it is 8.73. On price per unit, $273,810 sits 10.3% below the $305,382 average of the five sales and 8.7% under 725 N Sweetzer, the same-size 1965 elevator building at $300,000, and just above 6300 Orange at $272,222 and 1534 S Shenandoah at $269,750. On price per SF, $276.87 sits below all five sales, which run $288 to $356.",
+            "The discount to the comps comes from the cost of money: every one of them financed into Treasury yields 0.59 to 1.24 points lower than today's. A buyer borrowing at today's rates pays less for the same income, so this opinion sits at a 5.16% cap and does not ask a buyer to pay the comps' prices at today's cost of money. Pricing the building where a financed buyer's numbers work from the first day avoids the gap between ask and sale that cost 725 N Sweetzer and 142 S Wetherly months on the market."
           ],
           "disclosures": [
-            "Scheduled income is ownership's rent roll as of September 2026 ($46,008 per month on 20 rent-paying units), with unit 201, the resident manager's unit, and unit 301, whose tenant leaves in October 2026, carried at the $2,900 two-bedroom market rent; the manager's unit is credited back as an expense. Laundry is the owner's figure of about $350 per month. Taxes are reassessed at the list price at the parcel's own rates, 1.1874% plus $2,934 of direct assessments. Utilities ($27,390), trash ($9,575), cleaning and gardening ($9,210), pest control ($615), elevator service and fire protection ($9,085) and general and administrative costs ($5,829) are the owner's 2025 actuals from the Schedule E. Insurance ($28,089), repairs ($17,850), the on-site manager ($52,800, a $34,800 rent credit plus $18,000 of salary), reserves ($5,775) and management (4% of effective gross income) are LAAA allowances. The analysis assumes an all-cash purchase.",
-            "The owner's 2025 Schedule E books $55,066 of insurance, $50,062 of repairs, painting, appliances and supplies, $35,833 of payroll and workers compensation, $19,998 of legal and professional fees and $3,750 of environmental testing, as annual totals only. With insurance and repairs at the booked figures, net operating income at the list price would be $252,703. Unit sizes are not measured; the model allocates the 20,768 SF gross building area across the units, and price per SF uses that county total. Comparable cap rates and multiples come only from each building's own documents, with taxes restated at the sale price; four of the five comps published no income and carry price per unit and per SF only. The August 2026 sales at 1476 and 1534 S Shenandoah rest on the recorded grant deeds, as the county had not posted the transfer tax by September 17, 2026. Treasury yields are U.S. Treasury constant maturity, via FRED (DGS3, DGS5)."
+            "Scheduled income is ownership's rent roll as of September 2026 ($46,008 per month on 20 rent-paying units), with unit 201, the resident manager's unit, at no rent and unit 301, whose tenant leaves in October 2026, also carried at no rent, for $43,258 per month; a 3% vacancy reserve is deducted in both columns. The pro forma carries $2,495 per one-bedroom and an average of $2,912 per two-bedroom. Laundry is the owner's figure of about $350 per month. Taxes are reassessed at 1.20% of the list price; at the parcel's own rates, 1.1874% plus $2,934 of direct assessments, they would be $71,210. Utilities ($27,390) and trash ($9,575) are the owner's 2025 actuals from the Schedule E. Insurance ($24,968), repairs ($10,200), contract services ($6,300), the on-site manager ($36,000), general and administrative costs ($4,200), reserves ($3,150) and management (4% of effective gross income) are LAAA allowances. The financing shown, 50% down with a $2.875M loan at 6.50% amortized over 30 years, is an illustration, not a lender quote.",
+            "The owner's 2025 Schedule E books $55,066 of insurance, $50,062 of repairs, painting, appliances and supplies, $18,910 of cleaning, gardening, pest control, elevator service and fire protection, $35,833 of payroll and workers compensation, $19,998 of legal and professional fees and $3,750 of environmental testing, as annual totals only. With insurance and repairs at the booked figures, net operating income at the list price would be $226,674. Unit sizes are not measured; the model carries unit square footage as N/A, and price per SF uses the 20,768 SF county gross building area. Comparable cap rates and multiples come only from each building's own documents, with taxes restated at the sale price; four of the five comps published no income and carry price per unit and per SF only. The August 2026 sales at 1476 and 1534 S Shenandoah rest on the recorded grant deeds, as the county had not posted the transfer tax by September 17, 2026. Treasury yields are U.S. Treasury constant maturity, via FRED (DGS3, DGS5)."
           ]
         }
       },
@@ -1341,10 +1327,11 @@
           "claim_type": "broker_opinion",
           "support_refs": [
             "comps-rent:conclusions",
-            "financials:rent_roll"
+            "financials:rent_roll",
+            "sources:mm-model"
           ],
           "framed_as": "recommended positioning",
-          "text": "All 21 units are under the Rent Stabilization Ordinance. The occupied one-bedrooms average $2,178 against a $2,350 market rent and the rent-paying two-bedrooms $2,669 against $2,900, and each of those units re-leases at market when its tenant moves out on their own. The campaign shows that gap unit by unit and does not ask a buyer to pay for it today."
+          "text": "All 21 units are under the Rent Stabilization Ordinance. The occupied one-bedrooms average $2,178 against the $2,495 the pro forma carries, and the four continuing two-bedroom tenancies average $2,649 against a pro forma two-bedroom average of $2,912, and each of those units re-leases at market when its tenant moves out on their own. The campaign shows that gap unit by unit and does not ask a buyer to pay for it today."
         },
         {
           "id": "marketing-1",
@@ -1389,10 +1376,10 @@
           "claim_type": "derived_calculation",
           "support_refs": [
             "financials:rent_roll",
-            "comps-rent:conclusions"
+            "sources:mm-model"
           ],
           "framed_as": null,
-          "text": "Occupied one-bedrooms average $2,178 against a $2,350 market rent and the rent-paying two-bedrooms $2,669 against $2,900, reached as units turn over"
+          "text": "Occupied one-bedrooms average $2,178 against the pro forma's $2,495, and the four continuing two-bedroom tenancies $2,649 against a $2,912 two-bedroom average, reached as units turn over"
         },
         {
           "id": "highlight-5",
@@ -1566,10 +1553,11 @@
           "support_refs": [
             "sources:src-ladbs",
             "sources:src-demographics",
-            "comps-rent:conclusions"
+            "comps-rent:conclusions",
+            "sources:mm-model"
           ],
           "framed_as": "recommended buyer positioning",
-          "text": "The right buyer values what is uncommon at this size: an elevator building in Beverly Grove with its seismic, balcony, roof and electrical work finished and documented, a Walk Score of 95, and occupied rents about 8% under market that move to market as tenants turn over. That buyer should be qualified early on two questions, whether they accept the underwritten insurance and repair figures or underwrite to the 2025 return, and whether they are financing at today's rates or buying with modest debt, because both decide where inside the range an offer lands."
+          "text": "The right buyer values what is uncommon at this size: an elevator building in Beverly Grove with its seismic, balcony, roof and electrical work finished and documented, a Walk Score of 95, and occupied one-bedroom rents about 13% under the pro forma's $2,495 that move to market as tenants turn over. That buyer should be qualified early on two questions, whether they accept the underwritten insurance and repair figures or underwrite to the 2025 return, and whether they are financing at today's rates or buying with modest debt, because both decide where inside the range an offer lands."
         },
         {
           "id": "profile-title-1",
@@ -1645,20 +1633,22 @@
           "claim_type": "broker_opinion",
           "support_refs": [
             "comps-rent:conclusions",
-            "financials:rent_roll"
+            "financials:rent_roll",
+            "sources:mm-model"
           ],
           "framed_as": "broker opinion on market rent",
-          "text": "Market rent is concluded at $2,350 for a turned one-bedroom and $2,900 for a two-bedroom. The comparable two-bedrooms are larger, 1,000 to 1,200 SF against portal records of 825 to 900 SF for the subject's, which argues lower; the subject's elevator, balconies and updated kitchens argue higher. Units 102, 103 and 308 already rent above those figures and are held at their current rents, which puts the building at $634,680 of scheduled rent at market, 7.8% above the current $588,699. The renovated ceiling, 8534 Colgate with in-unit laundry at $3,595, is a different product and is not carried."
+          "text": "The asking evidence centers on $2,350 for a turned one-bedroom and about $2,900 for a two-bedroom. The comparable two-bedrooms are larger, 1,000 to 1,200 SF against portal records of 825 to 900 SF for the subject's, which argues lower; the subject's elevator, balconies and updated kitchens argue higher. The pro forma carries $2,495 per one-bedroom, the top of the one-bedroom range and unit 103's current rent, and an average of $2,912 per two-bedroom, which puts the building at $658,740 of scheduled rent, 26.9% above the current $519,099 that carries units 201 and 301 at no rent. The renovated ceiling, 8534 Colgate with in-unit laundry at $3,595, is a different product and is not carried."
         },
         {
           "id": "valuation-1",
           "claim_type": "derived_calculation",
           "support_refs": [
             "pricing:decision",
-            "financials:t12"
+            "financials:t12",
+            "sources:mm-model"
           ],
           "framed_as": null,
-          "text": "The recommended list price is $5.995M, the top of an opinion of value of $5.85M to $5.995M, with $5.925M the most likely sale price. At $5.995M the building prices at $285,476 per unit and $288.67 per SF. Current scheduled rent of $588,699, less a 3% vacancy reserve plus $4,200 of laundry, gives $575,238 of effective gross income; operating expenses of $263,347, with taxes reassessed at the list price, the owner's own $27,390 of utilities and the required on-site manager, leave net operating income of $311,892, a 5.20% cap rate and a 10.18 GRM. At market rents of $634,680 the net operating income is $354,709 and the cap rate 5.92%."
+          "text": "The recommended list price is $5.75M, the top of an opinion of value of $5.5M to $5.75M. At $5.75M the building prices at $273,810 per unit and $276.87 per SF. Current scheduled rent of $519,099, which carries the manager's unit and unit 301 at no rent, less a 3% vacancy reserve plus $4,200 of laundry, gives $507,726 of effective gross income; operating expenses of $211,092, with taxes reassessed at 1.20% of the list price, the owner's own $27,390 of utilities and the required on-site manager, leave net operating income of $296,634, a 5.16% cap rate and an 11.08 GRM. At the pro forma's $658,740 of scheduled rent the net operating income is $426,668 and the cap rate 7.42%. With 50% down and a $2.875M loan at 6.50% amortized over 30 years, the illustration in the model, debt coverage is 1.36 and the first-year cash-on-cash return 2.73%."
         },
         {
           "id": "valuation-2",
@@ -1671,7 +1661,7 @@
             "pricing:decision"
           ],
           "framed_as": "broker opinion on pricing position",
-          "text": "This price is set by yield. At the list the cap rate is 5.20%, rising to 5.36% at the bottom of the range, above the 4.74% that 6300 Orange shows on its own statement with its taxes restated at its sale price. The 10.18 GRM sits just above that building's 9.95, and the subject is the better building: newer, served by an elevator, with larger units and the mandated work done. On price per unit, $285,476 sits 6.5% below the $305,382 average of the five sales and about 5% under 725 N Sweetzer, the same-size 1965 elevator building at $300,000, and above 6300 Orange at $272,222 and 1534 S Shenandoah at $269,750. On price per SF, $288.67 sits at the bottom of the five sales, level with 725 N Sweetzer at $288 and below the other four, which run $304 to $356."
+          "text": "This price is set by yield. At the list the cap rate is 5.16%, above the 4.74% that 6300 Orange shows on its own statement with its taxes restated at its sale price, and the subject is the better building: newer, served by an elevator, with larger units and the mandated work done. The 11.08 GRM runs above that building's 9.95 because current rent carries two of the 21 units at no rent; on the pro forma rents it is 8.73. On price per unit, $273,810 sits 10.3% below the $305,382 average of the five sales and 8.7% under 725 N Sweetzer, the same-size 1965 elevator building at $300,000, and just above 6300 Orange at $272,222 and 1534 S Shenandoah at $269,750. On price per SF, $276.87 sits below all five sales, which run $288 to $356."
         },
         {
           "id": "valuation-3",
@@ -1682,7 +1672,7 @@
             "pricing:decision"
           ],
           "framed_as": "broker opinion on the rate environment and list price",
-          "text": "The discount to the comps has one cause: every one of them financed into Treasury yields 0.59 to 1.24 points lower than today's. A buyer borrowing at today's rates pays less for the same income, so this opinion sits at a 5.20% cap and does not ask a buyer to pay the comps' prices at today's cost of money. Pricing the building where a financed buyer's numbers work from the first day avoids the gap between ask and sale that cost 725 N Sweetzer and 142 S Wetherly months on the market."
+          "text": "The discount to the comps comes from the cost of money: every one of them financed into Treasury yields 0.59 to 1.24 points lower than today's. A buyer borrowing at today's rates pays less for the same income, so this opinion sits at a 5.16% cap and does not ask a buyer to pay the comps' prices at today's cost of money. Pricing the building where a financed buyer's numbers work from the first day avoids the gap between ask and sale that cost 725 N Sweetzer and 142 S Wetherly months on the market."
         },
         {
           "id": "disclosure-1",
@@ -1690,10 +1680,11 @@
           "support_refs": [
             "financials:t12",
             "sources:src-owner-docs",
-            "sources:src-tax-rebuild"
+            "sources:src-tax-rebuild",
+            "sources:mm-model"
           ],
           "framed_as": null,
-          "text": "Scheduled income is ownership's rent roll as of September 2026 ($46,008 per month on 20 rent-paying units), with unit 201, the resident manager's unit, and unit 301, whose tenant leaves in October 2026, carried at the $2,900 two-bedroom market rent; the manager's unit is credited back as an expense. Laundry is the owner's figure of about $350 per month. Taxes are reassessed at the list price at the parcel's own rates, 1.1874% plus $2,934 of direct assessments. Utilities ($27,390), trash ($9,575), cleaning and gardening ($9,210), pest control ($615), elevator service and fire protection ($9,085) and general and administrative costs ($5,829) are the owner's 2025 actuals from the Schedule E. Insurance ($28,089), repairs ($17,850), the on-site manager ($52,800, a $34,800 rent credit plus $18,000 of salary), reserves ($5,775) and management (4% of effective gross income) are LAAA allowances. The analysis assumes an all-cash purchase."
+          "text": "Scheduled income is ownership's rent roll as of September 2026 ($46,008 per month on 20 rent-paying units), with unit 201, the resident manager's unit, at no rent and unit 301, whose tenant leaves in October 2026, also carried at no rent, for $43,258 per month; a 3% vacancy reserve is deducted in both columns. The pro forma carries $2,495 per one-bedroom and an average of $2,912 per two-bedroom. Laundry is the owner's figure of about $350 per month. Taxes are reassessed at 1.20% of the list price; at the parcel's own rates, 1.1874% plus $2,934 of direct assessments, they would be $71,210. Utilities ($27,390) and trash ($9,575) are the owner's 2025 actuals from the Schedule E. Insurance ($24,968), repairs ($10,200), contract services ($6,300), the on-site manager ($36,000), general and administrative costs ($4,200), reserves ($3,150) and management (4% of effective gross income) are LAAA allowances. The financing shown, 50% down with a $2.875M loan at 6.50% amortized over 30 years, is an illustration, not a lender quote."
         },
         {
           "id": "disclosure-2",
@@ -1705,7 +1696,7 @@
             "sources:src-sale-comps"
           ],
           "framed_as": null,
-          "text": "The owner's 2025 Schedule E books $55,066 of insurance, $50,062 of repairs, painting, appliances and supplies, $35,833 of payroll and workers compensation, $19,998 of legal and professional fees and $3,750 of environmental testing, as annual totals only. With insurance and repairs at the booked figures, net operating income at the list price would be $252,703. Unit sizes are not measured; the model allocates the 20,768 SF gross building area across the units, and price per SF uses that county total. Comparable cap rates and multiples come only from each building's own documents, with taxes restated at the sale price; four of the five comps published no income and carry price per unit and per SF only. The August 2026 sales at 1476 and 1534 S Shenandoah rest on the recorded grant deeds, as the county had not posted the transfer tax by September 17, 2026. Treasury yields are U.S. Treasury constant maturity, via FRED (DGS3, DGS5)."
+          "text": "The owner's 2025 Schedule E books $55,066 of insurance, $50,062 of repairs, painting, appliances and supplies, $18,910 of cleaning, gardening, pest control, elevator service and fire protection, $35,833 of payroll and workers compensation, $19,998 of legal and professional fees and $3,750 of environmental testing, as annual totals only. With insurance and repairs at the booked figures, net operating income at the list price would be $226,674. Unit sizes are not measured; the model carries unit square footage as N/A, and price per SF uses the 20,768 SF county gross building area. Comparable cap rates and multiples come only from each building's own documents, with taxes restated at the sale price; four of the five comps published no income and carry price per unit and per SF only. The August 2026 sales at 1476 and 1534 S Shenandoah rest on the recorded grant deeds, as the county had not posted the transfer tax by September 17, 2026. Treasury yields are U.S. Treasury constant maturity, via FRED (DGS3, DGS5)."
         }
       ],
       "exceptions": []
@@ -1741,7 +1732,7 @@
           "strategy_copy": [
             "A buyer of a 1962 wood-frame building in Los Angeles asks two questions before any other: the soft-story retrofit and the balcony inspection. Both are closed here. The retrofit carries a Certificate of Compliance from March 2018 and the balcony repair in 20 units was finaled in April 2024, alongside a 2017 roof and building-wide electrical subpanels finaled in 2023. The package leads with those permits, because they remove the capital reserve a buyer would otherwise subtract from the price.",
             "The 2025 return shows $55,066 of insurance and $50,062 of repairs, painting, appliances and supplies, both well above what this underwriting carries. A buyer will see both. The package states the underwritten figures and the booked figures side by side, with the reason for each, so a buyer underwrites once rather than finding the gap in diligence and re-trading. The insurance declarations page and a 2025 repair ledger are the two documents that make that case, and we recommend having both in hand before launch.",
-            "All 21 units are under the Rent Stabilization Ordinance. The occupied one-bedrooms average $2,178 against a $2,350 market rent and the rent-paying two-bedrooms $2,669 against $2,900, and each of those units re-leases at market when its tenant moves out on their own. The campaign shows that gap unit by unit and does not ask a buyer to pay for it today."
+            "All 21 units are under the Rent Stabilization Ordinance. The occupied one-bedrooms average $2,178 against the $2,495 the pro forma carries, and the four continuing two-bedroom tenancies average $2,649 against a pro forma two-bedroom average of $2,912, and each of those units re-leases at market when its tenant moves out on their own. The campaign shows that gap unit by unit and does not ask a buyer to pay for it today."
           ],
           "narrative": [
             "We are proactive marketers rather than reactive ones. The offering is built, priced and staged before it is released, the outreach runs on a schedule you can see, and you get a written report on what happened rather than a summary of what we hoped would happen."
@@ -1752,7 +1743,7 @@
             "21 units in Beverly Grove: 15 one-bedroom and 6 two-bedroom, two-bath apartments in a three-story elevator building built in 1962",
             "Mandated work finished and documented: soft-story retrofit certified in March 2018 and the balcony repair in 20 units finaled in April 2024",
             "Roof replaced in 2017 and building-wide electrical subpanels replaced under permits finaled in 2023",
-            "Occupied one-bedrooms average $2,178 against a $2,350 market rent and the rent-paying two-bedrooms $2,669 against $2,900, reached as units turn over",
+            "Occupied one-bedrooms average $2,178 against the pro forma's $2,495, and the four continuing two-bedroom tenancies $2,649 against a $2,912 two-bedroom average, reached as units turn over",
             "Walk Score 95, within a half mile of a major transit stop, and under a mile from Cedars-Sinai, LACMA, the Beverly Center and The Grove",
             "20,768 SF on a 13,479 SF R3 lot with an attached 12-car carport, a common laundry room and a resident manager"
           ],
@@ -1787,7 +1778,7 @@
             "The comps with a public listing history tell one story. 725 N Sweetzer listed at $7,995,000, fell out of escrow, expired and closed at 79% of that price; 142 S Wetherly closed at 83% of its $15,250,000 ask. The one priced near its value, 6300 Orange, sold in 66 days at 98% of its ask."
           ],
           "positioning_narrative": [
-            "The right buyer values what is uncommon at this size: an elevator building in Beverly Grove with its seismic, balcony, roof and electrical work finished and documented, a Walk Score of 95, and occupied rents about 8% under market that move to market as tenants turn over. That buyer should be qualified early on two questions, whether they accept the underwritten insurance and repair figures or underwrite to the 2025 return, and whether they are financing at today's rates or buying with modest debt, because both decide where inside the range an offer lands."
+            "The right buyer values what is uncommon at this size: an elevator building in Beverly Grove with its seismic, balcony, roof and electrical work finished and documented, a Walk Score of 95, and occupied one-bedroom rents about 13% under the pro forma's $2,495 that move to market as tenants turn over. That buyer should be qualified early on two questions, whether they accept the underwritten insurance and repair figures or underwrite to the 2025 return, and whether they are financing at today's rates or buying with modest debt, because both decide where inside the range an offer lands."
           ],
           "profile_titles": [
             "Westside RSO Owner",
@@ -1803,18 +1794,18 @@
         "rent_comps": {
           "narrative": [
             "Rent evidence is read plan by plan in City of Los Angeles RSO buildings within 0.61 mile. Five one-bedroom asks in four buildings built from 1954 to 1975 run $2,287 to $2,495: $2,295 at the 1965 Sherholt on Holt Avenue, $2,287 and $2,395 at the 1969 elevator building at 1025 S Holt, $2,325 at Bloom on Olympic with a month free, and $2,495 for a fully remodeled unit at 423 S Sherbourne. With the building's own one-bedroom asks of $2,350 (unit 203, September 2026) and $2,385 (unit 207, October 2025), the median is $2,350. Two-bedroom asks run $2,799 to $3,300 on plans of 859 to 1,200 SF, with a median of $2,895.",
-            "Market rent is concluded at $2,350 for a turned one-bedroom and $2,900 for a two-bedroom. The comparable two-bedrooms are larger, 1,000 to 1,200 SF against portal records of 825 to 900 SF for the subject's, which argues lower; the subject's elevator, balconies and updated kitchens argue higher. Units 102, 103 and 308 already rent above those figures and are held at their current rents, which puts the building at $634,680 of scheduled rent at market, 7.8% above the current $588,699. The renovated ceiling, 8534 Colgate with in-unit laundry at $3,595, is a different product and is not carried."
+            "The asking evidence centers on $2,350 for a turned one-bedroom and about $2,900 for a two-bedroom. The comparable two-bedrooms are larger, 1,000 to 1,200 SF against portal records of 825 to 900 SF for the subject's, which argues lower; the subject's elevator, balconies and updated kitchens argue higher. The pro forma carries $2,495 per one-bedroom, the top of the one-bedroom range and unit 103's current rent, and an average of $2,912 per two-bedroom, which puts the building at $658,740 of scheduled rent, 26.9% above the current $519,099 that carries units 201 and 301 at no rent. The renovated ceiling, 8534 Colgate with in-unit laundry at $3,595, is a different product and is not carried."
           ]
         },
         "financial_analysis": {
           "valuation_narrative": [
-            "The recommended list price is $5.995M, the top of an opinion of value of $5.85M to $5.995M, with $5.925M the most likely sale price. At $5.995M the building prices at $285,476 per unit and $288.67 per SF. Current scheduled rent of $588,699, less a 3% vacancy reserve plus $4,200 of laundry, gives $575,238 of effective gross income; operating expenses of $263,347, with taxes reassessed at the list price, the owner's own $27,390 of utilities and the required on-site manager, leave net operating income of $311,892, a 5.20% cap rate and a 10.18 GRM. At market rents of $634,680 the net operating income is $354,709 and the cap rate 5.92%.",
-            "This price is set by yield. At the list the cap rate is 5.20%, rising to 5.36% at the bottom of the range, above the 4.74% that 6300 Orange shows on its own statement with its taxes restated at its sale price. The 10.18 GRM sits just above that building's 9.95, and the subject is the better building: newer, served by an elevator, with larger units and the mandated work done. On price per unit, $285,476 sits 6.5% below the $305,382 average of the five sales and about 5% under 725 N Sweetzer, the same-size 1965 elevator building at $300,000, and above 6300 Orange at $272,222 and 1534 S Shenandoah at $269,750. On price per SF, $288.67 sits at the bottom of the five sales, level with 725 N Sweetzer at $288 and below the other four, which run $304 to $356.",
-            "The discount to the comps has one cause: every one of them financed into Treasury yields 0.59 to 1.24 points lower than today's. A buyer borrowing at today's rates pays less for the same income, so this opinion sits at a 5.20% cap and does not ask a buyer to pay the comps' prices at today's cost of money. Pricing the building where a financed buyer's numbers work from the first day avoids the gap between ask and sale that cost 725 N Sweetzer and 142 S Wetherly months on the market."
+            "The recommended list price is $5.75M, the top of an opinion of value of $5.5M to $5.75M. At $5.75M the building prices at $273,810 per unit and $276.87 per SF. Current scheduled rent of $519,099, which carries the manager's unit and unit 301 at no rent, less a 3% vacancy reserve plus $4,200 of laundry, gives $507,726 of effective gross income; operating expenses of $211,092, with taxes reassessed at 1.20% of the list price, the owner's own $27,390 of utilities and the required on-site manager, leave net operating income of $296,634, a 5.16% cap rate and an 11.08 GRM. At the pro forma's $658,740 of scheduled rent the net operating income is $426,668 and the cap rate 7.42%. With 50% down and a $2.875M loan at 6.50% amortized over 30 years, the illustration in the model, debt coverage is 1.36 and the first-year cash-on-cash return 2.73%.",
+            "This price is set by yield. At the list the cap rate is 5.16%, above the 4.74% that 6300 Orange shows on its own statement with its taxes restated at its sale price, and the subject is the better building: newer, served by an elevator, with larger units and the mandated work done. The 11.08 GRM runs above that building's 9.95 because current rent carries two of the 21 units at no rent; on the pro forma rents it is 8.73. On price per unit, $273,810 sits 10.3% below the $305,382 average of the five sales and 8.7% under 725 N Sweetzer, the same-size 1965 elevator building at $300,000, and just above 6300 Orange at $272,222 and 1534 S Shenandoah at $269,750. On price per SF, $276.87 sits below all five sales, which run $288 to $356.",
+            "The discount to the comps comes from the cost of money: every one of them financed into Treasury yields 0.59 to 1.24 points lower than today's. A buyer borrowing at today's rates pays less for the same income, so this opinion sits at a 5.16% cap and does not ask a buyer to pay the comps' prices at today's cost of money. Pricing the building where a financed buyer's numbers work from the first day avoids the gap between ask and sale that cost 725 N Sweetzer and 142 S Wetherly months on the market."
           ],
           "disclosures": [
-            "Scheduled income is ownership's rent roll as of September 2026 ($46,008 per month on 20 rent-paying units), with unit 201, the resident manager's unit, and unit 301, whose tenant leaves in October 2026, carried at the $2,900 two-bedroom market rent; the manager's unit is credited back as an expense. Laundry is the owner's figure of about $350 per month. Taxes are reassessed at the list price at the parcel's own rates, 1.1874% plus $2,934 of direct assessments. Utilities ($27,390), trash ($9,575), cleaning and gardening ($9,210), pest control ($615), elevator service and fire protection ($9,085) and general and administrative costs ($5,829) are the owner's 2025 actuals from the Schedule E. Insurance ($28,089), repairs ($17,850), the on-site manager ($52,800, a $34,800 rent credit plus $18,000 of salary), reserves ($5,775) and management (4% of effective gross income) are LAAA allowances. The analysis assumes an all-cash purchase.",
-            "The owner's 2025 Schedule E books $55,066 of insurance, $50,062 of repairs, painting, appliances and supplies, $35,833 of payroll and workers compensation, $19,998 of legal and professional fees and $3,750 of environmental testing, as annual totals only. With insurance and repairs at the booked figures, net operating income at the list price would be $252,703. Unit sizes are not measured; the model allocates the 20,768 SF gross building area across the units, and price per SF uses that county total. Comparable cap rates and multiples come only from each building's own documents, with taxes restated at the sale price; four of the five comps published no income and carry price per unit and per SF only. The August 2026 sales at 1476 and 1534 S Shenandoah rest on the recorded grant deeds, as the county had not posted the transfer tax by September 17, 2026. Treasury yields are U.S. Treasury constant maturity, via FRED (DGS3, DGS5)."
+            "Scheduled income is ownership's rent roll as of September 2026 ($46,008 per month on 20 rent-paying units), with unit 201, the resident manager's unit, at no rent and unit 301, whose tenant leaves in October 2026, also carried at no rent, for $43,258 per month; a 3% vacancy reserve is deducted in both columns. The pro forma carries $2,495 per one-bedroom and an average of $2,912 per two-bedroom. Laundry is the owner's figure of about $350 per month. Taxes are reassessed at 1.20% of the list price; at the parcel's own rates, 1.1874% plus $2,934 of direct assessments, they would be $71,210. Utilities ($27,390) and trash ($9,575) are the owner's 2025 actuals from the Schedule E. Insurance ($24,968), repairs ($10,200), contract services ($6,300), the on-site manager ($36,000), general and administrative costs ($4,200), reserves ($3,150) and management (4% of effective gross income) are LAAA allowances. The financing shown, 50% down with a $2.875M loan at 6.50% amortized over 30 years, is an illustration, not a lender quote.",
+            "The owner's 2025 Schedule E books $55,066 of insurance, $50,062 of repairs, painting, appliances and supplies, $18,910 of cleaning, gardening, pest control, elevator service and fire protection, $35,833 of payroll and workers compensation, $19,998 of legal and professional fees and $3,750 of environmental testing, as annual totals only. With insurance and repairs at the booked figures, net operating income at the list price would be $226,674. Unit sizes are not measured; the model carries unit square footage as N/A, and price per SF uses the 20,768 SF county gross building area. Comparable cap rates and multiples come only from each building's own documents, with taxes restated at the sale price; four of the five comps published no income and carry price per unit and per SF only. The August 2026 sales at 1476 and 1534 S Shenandoah rest on the recorded grant deeds, as the county had not posted the transfer tax by September 17, 2026. Treasury yields are U.S. Treasury constant maturity, via FRED (DGS3, DGS5)."
           ]
         }
       },
@@ -1953,10 +1944,11 @@
           "claim_type": "broker_opinion",
           "support_refs": [
             "comps-rent:conclusions",
-            "financials:rent_roll"
+            "financials:rent_roll",
+            "sources:mm-model"
           ],
           "framed_as": "recommended positioning",
-          "text": "All 21 units are under the Rent Stabilization Ordinance. The occupied one-bedrooms average $2,178 against a $2,350 market rent and the rent-paying two-bedrooms $2,669 against $2,900, and each of those units re-leases at market when its tenant moves out on their own. The campaign shows that gap unit by unit and does not ask a buyer to pay for it today."
+          "text": "All 21 units are under the Rent Stabilization Ordinance. The occupied one-bedrooms average $2,178 against the $2,495 the pro forma carries, and the four continuing two-bedroom tenancies average $2,649 against a pro forma two-bedroom average of $2,912, and each of those units re-leases at market when its tenant moves out on their own. The campaign shows that gap unit by unit and does not ask a buyer to pay for it today."
         },
         {
           "id": "marketing-1",
@@ -2001,10 +1993,10 @@
           "claim_type": "derived_calculation",
           "support_refs": [
             "financials:rent_roll",
-            "comps-rent:conclusions"
+            "sources:mm-model"
           ],
           "framed_as": null,
-          "text": "Occupied one-bedrooms average $2,178 against a $2,350 market rent and the rent-paying two-bedrooms $2,669 against $2,900, reached as units turn over"
+          "text": "Occupied one-bedrooms average $2,178 against the pro forma's $2,495, and the four continuing two-bedroom tenancies $2,649 against a $2,912 two-bedroom average, reached as units turn over"
         },
         {
           "id": "highlight-5",
@@ -2178,10 +2170,11 @@
           "support_refs": [
             "sources:src-ladbs",
             "sources:src-demographics",
-            "comps-rent:conclusions"
+            "comps-rent:conclusions",
+            "sources:mm-model"
           ],
           "framed_as": "recommended buyer positioning",
-          "text": "The right buyer values what is uncommon at this size: an elevator building in Beverly Grove with its seismic, balcony, roof and electrical work finished and documented, a Walk Score of 95, and occupied rents about 8% under market that move to market as tenants turn over. That buyer should be qualified early on two questions, whether they accept the underwritten insurance and repair figures or underwrite to the 2025 return, and whether they are financing at today's rates or buying with modest debt, because both decide where inside the range an offer lands."
+          "text": "The right buyer values what is uncommon at this size: an elevator building in Beverly Grove with its seismic, balcony, roof and electrical work finished and documented, a Walk Score of 95, and occupied one-bedroom rents about 13% under the pro forma's $2,495 that move to market as tenants turn over. That buyer should be qualified early on two questions, whether they accept the underwritten insurance and repair figures or underwrite to the 2025 return, and whether they are financing at today's rates or buying with modest debt, because both decide where inside the range an offer lands."
         },
         {
           "id": "profile-title-1",
@@ -2257,20 +2250,22 @@
           "claim_type": "broker_opinion",
           "support_refs": [
             "comps-rent:conclusions",
-            "financials:rent_roll"
+            "financials:rent_roll",
+            "sources:mm-model"
           ],
           "framed_as": "broker opinion on market rent",
-          "text": "Market rent is concluded at $2,350 for a turned one-bedroom and $2,900 for a two-bedroom. The comparable two-bedrooms are larger, 1,000 to 1,200 SF against portal records of 825 to 900 SF for the subject's, which argues lower; the subject's elevator, balconies and updated kitchens argue higher. Units 102, 103 and 308 already rent above those figures and are held at their current rents, which puts the building at $634,680 of scheduled rent at market, 7.8% above the current $588,699. The renovated ceiling, 8534 Colgate with in-unit laundry at $3,595, is a different product and is not carried."
+          "text": "The asking evidence centers on $2,350 for a turned one-bedroom and about $2,900 for a two-bedroom. The comparable two-bedrooms are larger, 1,000 to 1,200 SF against portal records of 825 to 900 SF for the subject's, which argues lower; the subject's elevator, balconies and updated kitchens argue higher. The pro forma carries $2,495 per one-bedroom, the top of the one-bedroom range and unit 103's current rent, and an average of $2,912 per two-bedroom, which puts the building at $658,740 of scheduled rent, 26.9% above the current $519,099 that carries units 201 and 301 at no rent. The renovated ceiling, 8534 Colgate with in-unit laundry at $3,595, is a different product and is not carried."
         },
         {
           "id": "valuation-1",
           "claim_type": "derived_calculation",
           "support_refs": [
             "pricing:decision",
-            "financials:t12"
+            "financials:t12",
+            "sources:mm-model"
           ],
           "framed_as": null,
-          "text": "The recommended list price is $5.995M, the top of an opinion of value of $5.85M to $5.995M, with $5.925M the most likely sale price. At $5.995M the building prices at $285,476 per unit and $288.67 per SF. Current scheduled rent of $588,699, less a 3% vacancy reserve plus $4,200 of laundry, gives $575,238 of effective gross income; operating expenses of $263,347, with taxes reassessed at the list price, the owner's own $27,390 of utilities and the required on-site manager, leave net operating income of $311,892, a 5.20% cap rate and a 10.18 GRM. At market rents of $634,680 the net operating income is $354,709 and the cap rate 5.92%."
+          "text": "The recommended list price is $5.75M, the top of an opinion of value of $5.5M to $5.75M. At $5.75M the building prices at $273,810 per unit and $276.87 per SF. Current scheduled rent of $519,099, which carries the manager's unit and unit 301 at no rent, less a 3% vacancy reserve plus $4,200 of laundry, gives $507,726 of effective gross income; operating expenses of $211,092, with taxes reassessed at 1.20% of the list price, the owner's own $27,390 of utilities and the required on-site manager, leave net operating income of $296,634, a 5.16% cap rate and an 11.08 GRM. At the pro forma's $658,740 of scheduled rent the net operating income is $426,668 and the cap rate 7.42%. With 50% down and a $2.875M loan at 6.50% amortized over 30 years, the illustration in the model, debt coverage is 1.36 and the first-year cash-on-cash return 2.73%."
         },
         {
           "id": "valuation-2",
@@ -2283,7 +2278,7 @@
             "pricing:decision"
           ],
           "framed_as": "broker opinion on pricing position",
-          "text": "This price is set by yield. At the list the cap rate is 5.20%, rising to 5.36% at the bottom of the range, above the 4.74% that 6300 Orange shows on its own statement with its taxes restated at its sale price. The 10.18 GRM sits just above that building's 9.95, and the subject is the better building: newer, served by an elevator, with larger units and the mandated work done. On price per unit, $285,476 sits 6.5% below the $305,382 average of the five sales and about 5% under 725 N Sweetzer, the same-size 1965 elevator building at $300,000, and above 6300 Orange at $272,222 and 1534 S Shenandoah at $269,750. On price per SF, $288.67 sits at the bottom of the five sales, level with 725 N Sweetzer at $288 and below the other four, which run $304 to $356."
+          "text": "This price is set by yield. At the list the cap rate is 5.16%, above the 4.74% that 6300 Orange shows on its own statement with its taxes restated at its sale price, and the subject is the better building: newer, served by an elevator, with larger units and the mandated work done. The 11.08 GRM runs above that building's 9.95 because current rent carries two of the 21 units at no rent; on the pro forma rents it is 8.73. On price per unit, $273,810 sits 10.3% below the $305,382 average of the five sales and 8.7% under 725 N Sweetzer, the same-size 1965 elevator building at $300,000, and just above 6300 Orange at $272,222 and 1534 S Shenandoah at $269,750. On price per SF, $276.87 sits below all five sales, which run $288 to $356."
         },
         {
           "id": "valuation-3",
@@ -2294,7 +2289,7 @@
             "pricing:decision"
           ],
           "framed_as": "broker opinion on the rate environment and list price",
-          "text": "The discount to the comps has one cause: every one of them financed into Treasury yields 0.59 to 1.24 points lower than today's. A buyer borrowing at today's rates pays less for the same income, so this opinion sits at a 5.20% cap and does not ask a buyer to pay the comps' prices at today's cost of money. Pricing the building where a financed buyer's numbers work from the first day avoids the gap between ask and sale that cost 725 N Sweetzer and 142 S Wetherly months on the market."
+          "text": "The discount to the comps comes from the cost of money: every one of them financed into Treasury yields 0.59 to 1.24 points lower than today's. A buyer borrowing at today's rates pays less for the same income, so this opinion sits at a 5.16% cap and does not ask a buyer to pay the comps' prices at today's cost of money. Pricing the building where a financed buyer's numbers work from the first day avoids the gap between ask and sale that cost 725 N Sweetzer and 142 S Wetherly months on the market."
         },
         {
           "id": "disclosure-1",
@@ -2302,10 +2297,11 @@
           "support_refs": [
             "financials:t12",
             "sources:src-owner-docs",
-            "sources:src-tax-rebuild"
+            "sources:src-tax-rebuild",
+            "sources:mm-model"
           ],
           "framed_as": null,
-          "text": "Scheduled income is ownership's rent roll as of September 2026 ($46,008 per month on 20 rent-paying units), with unit 201, the resident manager's unit, and unit 301, whose tenant leaves in October 2026, carried at the $2,900 two-bedroom market rent; the manager's unit is credited back as an expense. Laundry is the owner's figure of about $350 per month. Taxes are reassessed at the list price at the parcel's own rates, 1.1874% plus $2,934 of direct assessments. Utilities ($27,390), trash ($9,575), cleaning and gardening ($9,210), pest control ($615), elevator service and fire protection ($9,085) and general and administrative costs ($5,829) are the owner's 2025 actuals from the Schedule E. Insurance ($28,089), repairs ($17,850), the on-site manager ($52,800, a $34,800 rent credit plus $18,000 of salary), reserves ($5,775) and management (4% of effective gross income) are LAAA allowances. The analysis assumes an all-cash purchase."
+          "text": "Scheduled income is ownership's rent roll as of September 2026 ($46,008 per month on 20 rent-paying units), with unit 201, the resident manager's unit, at no rent and unit 301, whose tenant leaves in October 2026, also carried at no rent, for $43,258 per month; a 3% vacancy reserve is deducted in both columns. The pro forma carries $2,495 per one-bedroom and an average of $2,912 per two-bedroom. Laundry is the owner's figure of about $350 per month. Taxes are reassessed at 1.20% of the list price; at the parcel's own rates, 1.1874% plus $2,934 of direct assessments, they would be $71,210. Utilities ($27,390) and trash ($9,575) are the owner's 2025 actuals from the Schedule E. Insurance ($24,968), repairs ($10,200), contract services ($6,300), the on-site manager ($36,000), general and administrative costs ($4,200), reserves ($3,150) and management (4% of effective gross income) are LAAA allowances. The financing shown, 50% down with a $2.875M loan at 6.50% amortized over 30 years, is an illustration, not a lender quote."
         },
         {
           "id": "disclosure-2",
@@ -2317,7 +2313,7 @@
             "sources:src-sale-comps"
           ],
           "framed_as": null,
-          "text": "The owner's 2025 Schedule E books $55,066 of insurance, $50,062 of repairs, painting, appliances and supplies, $35,833 of payroll and workers compensation, $19,998 of legal and professional fees and $3,750 of environmental testing, as annual totals only. With insurance and repairs at the booked figures, net operating income at the list price would be $252,703. Unit sizes are not measured; the model allocates the 20,768 SF gross building area across the units, and price per SF uses that county total. Comparable cap rates and multiples come only from each building's own documents, with taxes restated at the sale price; four of the five comps published no income and carry price per unit and per SF only. The August 2026 sales at 1476 and 1534 S Shenandoah rest on the recorded grant deeds, as the county had not posted the transfer tax by September 17, 2026. Treasury yields are U.S. Treasury constant maturity, via FRED (DGS3, DGS5)."
+          "text": "The owner's 2025 Schedule E books $55,066 of insurance, $50,062 of repairs, painting, appliances and supplies, $18,910 of cleaning, gardening, pest control, elevator service and fire protection, $35,833 of payroll and workers compensation, $19,998 of legal and professional fees and $3,750 of environmental testing, as annual totals only. With insurance and repairs at the booked figures, net operating income at the list price would be $226,674. Unit sizes are not measured; the model carries unit square footage as N/A, and price per SF uses the 20,768 SF county gross building area. Comparable cap rates and multiples come only from each building's own documents, with taxes restated at the sale price; four of the five comps published no income and carry price per unit and per SF only. The August 2026 sales at 1476 and 1534 S Shenandoah rest on the recorded grant deeds, as the county had not posted the transfer tax by September 17, 2026. Treasury yields are U.S. Treasury constant maturity, via FRED (DGS3, DGS5)."
         }
       ],
       "exceptions": []
@@ -2624,29 +2620,29 @@
   "approval_binding": {
     "deal_id": "6617-orange",
     "domains": {
-      "identity": "2298e413bf862a9c5fe9f3d1ee5d82297df8e72a666692cb41044bde85be9a20",
-      "financial_inputs": "a95f9cbf8f13934440a3be8e9cd5ec7832ed17bf0c03658097447057e60f63a4",
-      "pricing_decision": "0af834784a293b848aaac7adf14fb2674cafc8f9bdef6eb3c74046bf29bdea83",
-      "sale_comps": "6202cba082cbb758d1f4919f2ba3b04d9c7d07b915ed61d7c508bb711a7c91d7",
+      "identity": "07e86fbbc358a52dad76b36f029d85a8762214a23f61687c2cadb28339e69637",
+      "financial_inputs": "bfaab18c3f72964f6e6d6c61424f65d9ea1b1783c69b2b1e8026124ae76bf603",
+      "pricing_decision": "cde3cb7ad2fe1d191aba4f2b2e6f9b8e193e1489820f4b6f1310bd22ea9da1ad",
+      "sale_comps": "45ae283547dd6007e983b54ed053e01593de719b4762f66762bda18a4bbb228b",
       "rent_comps": "a819ace6019dc49fc9c296c8d4a9da9aaf1e9f2fa8ebff7e25107adf18dbd459",
-      "copy": "2f0e16bfc7e0b7241bae81aabab9566110e4a296ee3817a42979017912b3146f",
+      "copy": "d5e8b6dd96a730ff0956c21f2c117042dc970f469ec1e12132b93dd6b55f39cb",
       "media_selection": "a2dcc25ce74c9d44a61311c7c2fee6b538480420ac6fea9865960b6a9f846cbf",
       "regulatory_conclusions": "c86b8d80748d230ae32eb11b2df5be910fa5bf99d05558a5bb52f9155d62f892"
     },
     "presentation_hashes": {
       "identity": "8dc66960632b24f71c46bf0959657e7d4eae20dcecb50418a1e85310d0b2f19f",
-      "financial_inputs": "bf321effa4ad7d4815dddcc45a69e0fddb18d57cb18a2023f08b512363e452df",
-      "pricing_decision": "67ca57c564d4e6bedcb7524f5d125f5cefaf2b002cf0b06406a606a92b5658df",
+      "financial_inputs": "e8cb9548e0a98501b6c3895634926f6500e1774b5c00dc3ca22f8e731523a309",
+      "pricing_decision": "411fd87600f4185c5e6561b5bf92eef8b46b17a5824b5315ab628bf1a18e1ccb",
       "sale_comps": "86a745fee53f8c71f719e61d5540c5d500b495e0a93032bd4227dc2c7d7f036e",
       "rent_comps": "51f7938cfee4ad58d32e3d02c2259ed4b59d4f19066924d88895b729c9acc3a6",
-      "copy": "13ee1e06d2ef191c283a2aa367b4a72f0db62e983951409c2d7b8e62be05f3ab",
+      "copy": "1313ac9a152d3e0194baa239fe94d45aff1f1b7b5b34fbdf5f7d7daad5829558",
       "media_selection": "110985f7c7b0739c139ebb1d634aef9108625b2d3547b6217b61a4ea09f47ac6",
       "regulatory_conclusions": "86c1d97c3d47d5e888c739a48b10b81d4703984c6dec49808b6ec5478c7e88a3"
     }
   },
   "stats": {
     "live": true,
-    "generated": "2026-09-18T15:21:18+00:00",
+    "generated": "2026-09-19T00:29:12+00:00",
     "geography": {
       "states": 21,
       "has_dc": true,
