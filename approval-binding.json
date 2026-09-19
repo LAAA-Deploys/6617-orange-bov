@@ -3,8 +3,8 @@
   "scope": "deal",
   "deal_id": "6617-orange",
   "portfolio_id": null,
-  "package_version": "v6",
-  "approved_at": "2026-09-19T00:29:04.027992+00:00",
+  "package_version": "v7",
+  "approved_at": "2026-09-19T00:35:30.493235+00:00",
   "approver": "Glen Scher",
   "price": {
     "value": 5750000
@@ -14,6 +14,7 @@
     "exc-expense-normalization",
     "exc-insurance",
     "exc-manager",
+    "exc-model-print",
     "exc-owner-level",
     "exc-parking",
     "exc-pricing",
@@ -25,7 +26,7 @@
       "content_sha256": "d5e8b6dd96a730ff0956c21f2c117042dc970f469ec1e12132b93dd6b55f39cb"
     },
     "financial_inputs": {
-      "content_sha256": "bfaab18c3f72964f6e6d6c61424f65d9ea1b1783c69b2b1e8026124ae76bf603"
+      "content_sha256": "df69e1b2be4c792301e022aaf8ebc8d75df1379cffef05f55c378366ec41474d"
     },
     "identity": {
       "content_sha256": "07e86fbbc358a52dad76b36f029d85a8762214a23f61687c2cadb28339e69637"

@@ -2134,7 +2134,9 @@
 <use data-text="5" xlink:href="#font_11_321" transform="matrix(9,0,0,-9,22.060002,339.453)" fill="#404040"/>
 </g>
 <g clip-path="url(#clip_135)">
-<use data-text="0" xlink:href="#font_11_316" transform="matrix(9,0,0,-9,195,339.453)" fill="#404040"/>
+<use data-text="N" xlink:href="#font_11_57" transform="matrix(9,0,0,-9,190.08,339.453)" fill="#404040"/>
+<use data-text="/" xlink:href="#font_11_465" transform="matrix(9,0,0,-9,196.43399,339.453)" fill="#404040"/>
+<use data-text="A" xlink:href="#font_11_1" transform="matrix(9,0,0,-9,199.314,339.453)" fill="#404040"/>
 </g>
 <g clip-path="url(#clip_136)">
 <use data-text="$" xlink:href="#font_11_522" transform="matrix(9,0,0,-9,256.47,339.453)" fill="#404040"/>
@@ -2192,7 +2194,9 @@
 <use data-text="6" xlink:href="#font_11_322" transform="matrix(9,0,0,-9,17.86,351.09303)" fill="#404040"/>
 </g>
 <g clip-path="url(#clip_142)">
-<use data-text="0" xlink:href="#font_11_316" transform="matrix(9,0,0,-9,195,351.09303)" fill="#404040"/>
+<use data-text="N" xlink:href="#font_11_57" transform="matrix(9,0,0,-9,190.08,351.09303)" fill="#404040"/>
+<use data-text="/" xlink:href="#font_11_465" transform="matrix(9,0,0,-9,196.43399,351.09303)" fill="#404040"/>
+<use data-text="A" xlink:href="#font_11_1" transform="matrix(9,0,0,-9,199.314,351.09303)" fill="#404040"/>
 </g>
 <g clip-path="url(#clip_143)">
 <use data-text="$" xlink:href="#font_11_522" transform="matrix(9,0,0,-9,256.11,351.09303)" fill="#404040"/>

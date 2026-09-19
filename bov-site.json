@@ -658,28 +658,28 @@
           "label": "Operating Statement",
           "width": 746.78,
           "height": 281.05,
-          "sha256": "e25d851e7231b93e57f7a0664b2397dfcd4f57328ac1516d7f61d0bdf69899ef"
+          "sha256": "1df57ea5396e137cae51b52d716894ad3f9d94266aa77a9df0da6bf75c11ca41"
         },
         {
           "src": "images/model-page-03.svg",
           "label": "Notes to the Operating Statement",
           "width": 746.78,
-          "height": 398.8,
-          "sha256": "45a3e6ea30acddf83f68806a4ec5124d998a1678d69fc31cb35ba1a4712c2b63"
+          "height": 241.45,
+          "sha256": "bff7a0bfec188488aa4cc29036bbbff64409af2fbb895ef5fee413ee1dab39e4"
         },
         {
           "src": "images/model-page-04.svg",
           "label": "Pricing Detail",
           "width": 746.78,
           "height": 463.33,
-          "sha256": "37c27e29431f687f48b16f7a4ede587c9cfe7ab24d5e6030b949f097472022a1"
+          "sha256": "fba6d5de4c92e731fa53a060ccfb489853e93098bf5ff77cd5665138daada8f2"
         },
         {
           "src": "images/model-page-05.svg",
           "label": "Proposal Price",
           "width": 746.78,
           "height": 387.88,
-          "sha256": "1ae0a7e8384d370b25c2872561e93a4d3aa070df0725b8e065728dcf88cae271"
+          "sha256": "4d0a9a4cd875d2ea4208299accee26351296777676f0f0478a8e095df9618069"
         }
       ],
       "comp_pages": [],
@@ -1051,7 +1051,7 @@
         },
         "local_listings_source": {
           "source": "https://www.laaa.com/listings",
-          "pulled": "2026-09-19T00:29:12+00:00"
+          "pulled": "2026-09-19T00:35:36+00:00"
         }
       }
     }
@@ -2621,7 +2621,7 @@
     "deal_id": "6617-orange",
     "domains": {
       "identity": "07e86fbbc358a52dad76b36f029d85a8762214a23f61687c2cadb28339e69637",
-      "financial_inputs": "bfaab18c3f72964f6e6d6c61424f65d9ea1b1783c69b2b1e8026124ae76bf603",
+      "financial_inputs": "df69e1b2be4c792301e022aaf8ebc8d75df1379cffef05f55c378366ec41474d",
       "pricing_decision": "cde3cb7ad2fe1d191aba4f2b2e6f9b8e193e1489820f4b6f1310bd22ea9da1ad",
       "sale_comps": "45ae283547dd6007e983b54ed053e01593de719b4762f66762bda18a4bbb228b",
       "rent_comps": "a819ace6019dc49fc9c296c8d4a9da9aaf1e9f2fa8ebff7e25107adf18dbd459",
@@ -2631,7 +2631,7 @@
     },
     "presentation_hashes": {
       "identity": "8dc66960632b24f71c46bf0959657e7d4eae20dcecb50418a1e85310d0b2f19f",
-      "financial_inputs": "e8cb9548e0a98501b6c3895634926f6500e1774b5c00dc3ca22f8e731523a309",
+      "financial_inputs": "246c7c4e4836cd4a9c4ba180c8b184d18a86bddd0b5f2feac4363e450e22c1a2",
       "pricing_decision": "411fd87600f4185c5e6561b5bf92eef8b46b17a5824b5315ab628bf1a18e1ccb",
       "sale_comps": "86a745fee53f8c71f719e61d5540c5d500b495e0a93032bd4227dc2c7d7f036e",
       "rent_comps": "51f7938cfee4ad58d32e3d02c2259ed4b59d4f19066924d88895b729c9acc3a6",
@@ -2642,7 +2642,7 @@
   },
   "stats": {
     "live": true,
-    "generated": "2026-09-19T00:29:12+00:00",
+    "generated": "2026-09-19T00:35:36+00:00",
     "geography": {
       "states": 21,
       "has_dc": true,
